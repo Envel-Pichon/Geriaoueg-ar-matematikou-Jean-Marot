@@ -22,5 +22,4 @@ Lexique Français Breton de mathématiques tiré de ***Geriadur ar Matematikoù*
 > Cet ouvrage donne le regard critique et libre d'un universitaire sur l'enseignement de sa discipline en breton. Il s'adresse aux enseignants et futurs enseignants de la filière bilingue, primaire et secondaire, ainsi qu'aux parents d'élèves, lycéens et collégiens. Il déborde largement du cadre de l'enseignement et de celui des mathématiques par l'importance accordée à la réflexion et à l'argumentation. De ce fait, il concerne tout scientifique, et aussi tout public intéressé par les sciences et/ou la langue bretonne.
 
 Biographie :
-
 Jean Marot, Docteur d'Etat en mathématiques de l'Université de Paris II (Orsay), est professeur à l'Université de Bretagne Occidentale (Brest).
