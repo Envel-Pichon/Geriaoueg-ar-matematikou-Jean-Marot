@@ -2195,4 +2195,4 @@ BIBLIOGRAFIEZH/BIBLIOGRAPHIE
 [ ] Djebhar A., Histoire de la science arabe, Editions du Seuil, Paris, 2001.
 [ ] Duvillié B., Sur les traces de l'Homo mathematicus : les math. avant Euclide, Ellipses, Paris, 1999.
 [ ] Heath TL., A manual of Greek Mathematics, New York, Dover, 1963.
-[ ] Ifrah G., Ilistoire universelle des chi?ies, 2 tomes, Bouquins, R. Laffont, Paris, 1994.
+[ ] Ifrah G., Histoire universelle des chiffres, 2 tomes, Bouquins, R. Laffont, Paris, 1994.
