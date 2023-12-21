@@ -7,6 +7,7 @@ Lexique Français Breton de mathématiques tiré de ***Geriadur ar Matematikoù*
 	- *ex* : krei**S**enn = krei**Z**enn ; adi**SS**ioniñ = adi**S**ioniñ ; bloa**w**ezh = bloa**v**ezh ...
 - j'ai pris la liberté de changer *maximum* proposé en Breton par *maksimum*, plus cohérent avec les autres orthographes (de même pour les autres **x** conservés en Breton);
 - ce lexique est issue d'un OCR d'un scan PDF et a été relu et corrigé mais il peu subsister des erreurs / inconsistences ;
+- 
 - les scans d'origine sont disponibles sous forme de fichiers PNG ;
 - certains termes ont été retirés du lexique d'origine car je veux m'en servir pour mes cours de collège, seulement j'ai décidé vers la fin de l'alphabet que... c'était pénible de retirer les termes ;
 - les entrées du lexique indique respectivement le terme en français, les éventuelles abréviations et symboles, le(s) terme(s) proposé(s) en Breton, la catégorie grammaticale éventuelle, les pages des occurences dans le dictionnaire ;
@@ -20,5 +21,6 @@ Lexique Français Breton de mathématiques tiré de ***Geriadur ar Matematikoù*
 
 > Cet ouvrage donne le regard critique et libre d'un universitaire sur l'enseignement de sa discipline en breton. Il s'adresse aux enseignants et futurs enseignants de la filière bilingue, primaire et secondaire, ainsi qu'aux parents d'élèves, lycéens et collégiens. Il déborde largement du cadre de l'enseignement et de celui des mathématiques par l'importance accordée à la réflexion et à l'argumentation. De ce fait, il concerne tout scientifique, et aussi tout public intéressé par les sciences et/ou la langue bretonne.
 
-Biographie
+Biographie :
+
 Jean Marot, Docteur d'Etat en mathématiques de l'Université de Paris II (Orsay), est professeur à l'Université de Bretagne Occidentale (Brest).
