@@ -50,7 +50,7 @@ algorithmique algoritmikel ad. 22, 55
 aligné a-steud, steudet ad. 22, 66, 271
 alignement (droite d') eeunenn-steudadur
 alignement steudadur m. 22, 271
-aligner steudan v. 22, 271
+aligner steudañ v. 22, 271
 alpha (α, Α) alfa 55
 alphabet alfabet m. 55
 alternative alternativenn f. 56
@@ -71,7 +71,7 @@ analogue analogel ad. 22, 57
 analyse analis m. 22, 57
 analyse combinatoire analis kombinadurel
 analyse fonctionnelle analis fonksionel
-analyser analisan v. 57
+analyser analisañ v. 57
 analyticité analitikelezh f. 57
 analytique (fonction) fonksion analitikel
 analytique analitikel ad. 57
@@ -261,7 +261,7 @@ compréhension komprenadur m.
 compris entre lec'hiet etre ad.
 compter kontañ v. 170
 concaténation kenchadennadur m. 159
-concaténer kenchadennin v.
+concaténer kenchadenniñ v.
 concave konkav ad. 26, 169
 concavité konkavded f. 26, 169
 Concentrique kengreisenneg ad. 160
@@ -401,7 +401,7 @@ décimal degel ad. 27, 86
 décimale degelenn f. 27, 87
 décomposé digomposet ad. 95
 décomposer digomposiñ v. 95
-décrire deskrivan v. 88
+décrire deskrivañ v. 88
 décrit deskrivet ad. 88
 décroissance digreskañs f. 95
 décroissant digreskant ad, 95
@@ -480,7 +480,7 @@ direction durc'hadur m. 29, 102
 discontinu digendalc'hus ad. 94 
 discontinuité digendalc'husted f. 94 
 discriminant diskriminant ad/m. 27, 98
-disjoindre disjuntan v. 29, 97
+disjoindre disjuntañ v. 29, 97
 disjoint disjunt ad. 29, 97
 disjonction disjuntadur m. 29, 97
 disque disk m. 24, 97
@@ -492,9 +492,9 @@ distribution distribussion f. 30, 99
 distributivité distributivelezh f. 24, 99
 divergence diverjans f. 99
 divergent diverjant ad. 99
-diverger diverjin v. 99
+diverger diverjiñ v. 99
 dividende ranned m. 244
-diviser rannan v. 30, 244
+diviser rannañ v. 30, 244
 diviseur commun ranner boutin 244
 diviseur de zéro ranner eus zero 244
 diviseur ranner m. 244
@@ -558,7 +558,7 @@ emboîté embouestet ad. 107
 empilement entessadur m. 109
 empiler entessiñ v.
 encadrement sterniadur f. 272
-encadrer sternian v. 272
+encadrer sterniañ v. 272
 énergie energiezh f.
 engendré (par) engehentet (gant) ad. 108
 engendrer engehentañ v. 108
@@ -660,7 +660,7 @@ facteur faktor m. 113
 factoriel faktorel ad. 113
 factorielle n (n!) faktorel n f. 113
 factorisation faktorisadur m. 113
-factoriser faktorisan v. 113
+factoriser faktorisañ v. 113
 faible gwan ad.
 faisceau feskatl m. 114
 famille familh f. 113
@@ -724,7 +724,7 @@ gnomon gnomon m. 125
 gradient gradiant, m.. 126
 graduation dereziadur, graduadur m. 88, 126
 gradué dereziet, graduet ad. 88, 126
-graduer derezian, graduin v. 88
+graduer derezian, graduiñ v. 88
 grammaire yezhadur m. 299
 gramme gramm m. 126
 grand (infiniment) bras-infinit ad. 76
@@ -871,7 +871,7 @@ injectif injektivel ad. 23, 145
 injection injeksion f. 23, 145
 injectivité injektivelezh f. 145
 inscriptible enskrivadus ad. 109
-inscrire enskrivan v. 109
+inscrire enskrivañ v. 109
 inscrit enskrivet ad. 109
 instabilité distabilded f. 99
 instable distabil ad. 99
@@ -1541,7 +1541,7 @@ quadrillion (10^24) kwadrilion m. 180
 quadrique kwadrikenn f. 180
 quadruplet kwadruplet. m. 180
 qualitatif kalitativel ad. 155
-quanti?er kwanti?an v. 180
+quantifier kwantifiañ v. 180
 quantificateur existentiel (Ǝ) kwantifier-bezoud m. 180
 quantificateur kwantifier m. 180
 quantificateur universel (∀) kwantifier universel m. 180
@@ -1888,7 +1888,7 @@ strictement ent-strizh adv. 273
 strophoïde strofoïdenn f. 273
 structural struktural ad. 273
 structure skruktur m. 273
-subdiviser is-rannan v. 150
+subdiviser is-rannañ v. 150
 subdivision is-rann f. 150
 subordonné (a) is-urzhiet (da) ad. 151
 substituer substituiñ v. 273
@@ -1911,9 +1911,9 @@ superposer superposiñ v. 273
 superposition superposadur m. 273
 supplémentaire ouzhpennadel ad. 25, 220
 support suport m. 273
-suppositon suposadenn v. 47, 274
+supposition suposadenn f. 47, 274
 sûr sur ad. 274
-sur-corps us-korf m. 2934
+sur-corps us-korf m. 293
 sûrement sur-tre
 surface de révolution gorreenn-dro f. 126
 surface gorreenn f. 125
