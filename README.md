@@ -1,6 +1,6 @@
 # Geriaoueg ar Matematikoù gant Jean-Marot
 
-Lexique Français Breton de mathématiques tiré de * **Geriadur ar Matematikoù** * (Dictionnaire des Mathématiques) de Jean Marot.  
+Lexique Français Breton de mathématiques tiré de ***Geriadur ar Matematikoù*** (Dictionnaire des Mathématiques) de Jean Marot.  
 
 ## Notes :
 - ce lexique est issue d'un OCR d'un scan PDF et a été relu et corrigé mais il peu subsister des erreurs / inconsistences ;
