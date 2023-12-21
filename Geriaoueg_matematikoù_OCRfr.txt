@@ -98,12 +98,12 @@ arbitraire arbitrel ad. 62
 arbitrairement end-arbitrel adv. 162
 arbre de calcul gwezenn-jediÃ± f. 128
 arc (fonction) ark m. 23, 64
-arc cosinus ark kosinus 64 -
+arc cosinus ark kosinus 64
 arc sinus ark sinus 64
 arc tangente ark tanjant 64
 are ar m. 62
-arete ker m. 42, 162
-arete d'un polyedre ker eus ur poliedr 162 
+arÃªte ker m. 42, 162
+arÃªte d'un polyedre ker eus ur poliedr 162 
 argument d'un nombre complexe argumant un niver kompleks m. 63
 argumentation arguzadenn f. 63
 arithmÃ©tico-gÃ©omÃ©trique heulienn aritmetiko-geometreg 64
@@ -198,9 +198,9 @@ certitude assurded f. 65
 chaÃ®ne chadenn f. 80
 chaÃ®nette chadennig f, 80
 champ parkad m. 223
-changement chanchamant m. 80
-changer chanch v. 80 .
-changer de signe chanch sin 80
+changement chaÃ±chamant m. 80
+changer chaÃ±ch v. 80 .
+changer de signe chaÃ±ch sin 80
 chaos c'haos m. 83
 chemin hent m. 134
 chiffre sifr m. 261
@@ -208,19 +208,19 @@ choix (axiome du) aksiom ar choas 81
 choisir choas v. 81
 circonscrit (a) troskrivet (douzh) ad. 288
 circonscrit (cercle) kelc'h troskrivet 288
-circonscrire (a) troskrivan (douzh) v. 288
+circonscrire (a) troskrivaÃ± (douzh) v. 288
 circulaire -kelc'h, kelc'hieg ad. 25, 158
 circulaire (secteur) sektor-kelc'h 158, 257
 circulaire (permutation) permutadenn gelc'hieg 158, 227
 classe klassad m. 163
-classe d'Ã©quivalence klassad a ekwivalans
+classe d'Ã©quivalence klassad a ekwivalaÃ±s
 classification klassifiadur m. 163
-classifier klassifian v. 163
+classifier klassifiaÃ± v. 163
 classique klassikel ad. 163
 co- ken-/ko- 159, 164
 codage koderezh f. 165
 code kod m. 164
-coder kodin v. 164
+coder kodiÃ± v. 164
 coefficient koefissiant m. 165
 cohÃ©rence koheraÃ±s f. 21, 25, 165
 colonne kolonenn f. 165
@@ -231,9 +231,9 @@ combinatoire kombinadurezh f. 166
 commun (a) boutin (da) ad. 25, 75
 commun (facteur) faktor boutin 75
 commuter komutaÃ± v. 167
-comparable kenveriadus ad. 161
-comparaison kenveriaÃ± m. 161
-comparer kenveriaÃ± v. 161
+comparable keÃ±veriadus ad. 161
+comparaison keÃ±veriaÃ± m. 161
+comparer keÃ±veriaÃ± v. 161
 compas kompas m. 166
 compatibilitÃ© kendere f. 159
 compatible (avec) kendere (gant.) ad. 159
@@ -253,11 +253,11 @@ composante komponantenn f. 167
 composÃ© komposed m. 167
 composÃ© (nombre) niver komposet 167
 composÃ©e komposenn f. 167
-composer komposin v. 167
+composer komposiÃ± v. 167
 composition komposadur m. 167
 comprÃ©hension komprenadur m.
 compris entre lec'hiet etre ad.
-compter kontan v. 170
+compter kontaÃ± v. 170
 concatÃ©nation kenchadennadur m. 159
 concatÃ©ner kenchadennin v.
 concave konkav ad. 26, 169
@@ -272,9 +272,9 @@ concourant kenredus ad. 26, 38, 161
 constant konstant ad. 26, 170
 constante konstantenn f. 26, 170
 constat konstad m.
-constater kenstadan v.
+constater kenstadaÃ± v.
 construction kensavadur, konstruadur m. 26, 160, 170
-construire kensevel, konstruin v. 26, 160, 170
+construire kensevel, konstruiÃ± v. 26, 160, 170
 constructible kensavadus, konstruadus ad.
 constructible a la regle et au compas tressadus gant ar reolenn hag ar c'hompas
 concourantes (droites) eennennou kenredus
@@ -286,32 +286,32 @@ condition nÃ©cessaire kondission red 167
 condition sufisante kondission bastus 167
 conditionnel kondissionel ad. 168
 conditionnement kondissionamant m. 168
-conditionner kondissionin v. 168
+conditionner kondissioniÃ± v. 168
 cÃ´ne kon m. 27, 168
 cÃ´ne de rÃ©volution kon-tro m. 168
 cÃ´ne tronquÃ© kon besk(et) 27, 168
 confiance fiziaÃ±s f. 116
 configuration konfigurassion f. 168
-confondre kendeuzin v.
+confondre kendeuziÃ± v.
 confondu kendeuzet ad. 160
 conforme  konform (da) ad. 168
 congru (a) kongruant (da) ad. 168
-congruence kongruans f. 168
+congruence kongruaÃ±s f. 168
 congruent (a) kongruant (da) ad. 168
 conique koneg ad. 168
 conique konikenn f. 169
 conjecture konjekturenn f. 169
-conjecturer konjekturin v. 169
+conjecturer konjekturiÃ± v. 169
 connexion konneksion f. 26, 169
-consÃ©cutif kenhenlius ad. 22, 160
-consÃ©quence konsekans f. 170
+consÃ©cutif kenheulius ad. 22, 160
+consÃ©quence konsekaÃ±s f. 170
 conservatif mirus ad.
 conserver miroud v.
 contact (point de) poent-kontakt m. 170
 contenir enderc'hel v.
 contexte kontekst m. 171
 continu kendalc'hus ad. 159
-continuÃ©e (fraction) fraksion kendalc'het.
+continuÃ©e (fraction) fraksion kendalc'het
 continuitÃ© kendalc'husted f. 159
 continument ent-kendalc'hus adv. 159
 contour kendro m. 40, 160
@@ -325,24 +325,24 @@ contraposÃ©e kontraposenn f. 171
 contraposition kontraposadur m.. 48, 171
 contre-exemple skwer-eneb m. 267
 contrÃ´le kontroll m. 171
-contrÃ´ler kontrollin v.
-convergence konverjans f. 172
+contrÃ´ler kontrolliÃ± v.
+convergence konverjaÃ±s f. 172
 convergent konverjant ad. 172
 convergente (suite) heulienn g-konverjant
-converger (vers) konverjin (war-du) v. 172
-coordonnÃ©e kcnnrzliienn f. 161
+converger (vers) konverjiÃ± (war-du) v. 172
+coordonnÃ©e kennurzhienn f. 161
 coplanaire kemplanel ad. 42, 158
 coplanÃ©aritÃ© kemplanelded f. 42, 158
 corde kordenn f. 172
 corollaire korollar m. 48, 173
 corps korf m. 35, 173
-corps de fractions korf-fraksionou m. 173
+corps de fractions korf-fraksionoÃ¹ m. 173
 corrÃ©lation korreladur f. 173
 corrÃ©lÃ© korrelet ad.
-corrÃ©ler korrelin v. 173
+corrÃ©ler korreliÃ± v. 173
 correspondance kenglotadur m. 27, 160
 correspondant kenglotus ad. 160
-correspondre (a) kenglotan (gant) v. 160
+correspondre (a) kenglotaÃ± (gant) v. 160
 cosÃ©cante kosekant m. 173
 cosinus (cos) kosinus m. 173
 cotangent kotanjant ad. 175
@@ -350,11 +350,11 @@ cotangente (cotg) kotanjant m. 175
 cote savenn f. 255
 cÃ´tÃ© kostez m. 27, 174
 couleur liw m. 189
-couper troc'han u. 44, 287
+couper troc'haÃ± u. 44, 287
 couple koublad m. 175
 coupure troc'hadur m. 45, 287
 courbe krommenn f. 178
-courbure krommnadur m. 177
+courbure krommadur m. 177
 couronne circulaire kurunenn-gelec'h f. 179
 CQFD, APRA 62
 crible krouer m. 178
@@ -362,9 +362,9 @@ critere kriter m. 177
 critique kritikel ad. 177
 crochet [] m. kroched m. 177
 croisÃ© kroaset ad. 177
-croissance kreskans f. 177
+croissance kreskaÃ±s f. 177
 croissant kreskant ad. 177
-croÃ®tre kreskin v. 177
+croÃ®tre kreskiÃ± v. 177
 croix kroas f. 177
 cryptographie kriptografiezh f. 177
 cryptographique kriptografeg ad. 177
@@ -374,15 +374,15 @@ cubique (racine) gwrizienn gubeg 129, 178
 cubique kubikenn f. 27, 179
 cumulatif kumulativel ad. 179
 cumulÃ© kumulet ad. 179
-cumuler kumulin v. 179
+cumuler kumuliÃ± v. 179
 curviligne krommlinnennel ad. 31, 178
 cycle sikl m. 25, 261
 cyclide siklid f. 25, 261
 cyclique sikleg ad. 25, 261
 cycloidal sikloidal ad. 261
 cycloide sikloidenn f. 261
-cylindre silendr m. 27, 261
-cylindre de rÃ©volution silendr-tro 261
+cylindre sileÃ±dr m. 27, 261
+cylindre de rÃ©volution sileÃ±dr-tro 261
 cylindrique silendreg ad. 261
 
 D
@@ -398,25 +398,25 @@ dÃ©cimal degel ad. 27, 86
 dÃ©cimal (nombre) niver degel 86
 dÃ©cimale degelenn f. 27, 87
 dÃ©composÃ© digomposet ad. 95
-dÃ©composer digomposin v. 95
+dÃ©composer digomposiÃ± v. 95
 dÃ©crire deskrivan v. 88
 dÃ©crit deskrivet ad. 88
-dÃ©croissance digreskans f. 95
+dÃ©croissance digreskaÃ±s f. 95
 dÃ©croissant digreskant ad, 95
-dÃ©croÃ®tre digreskin v. 95
+dÃ©croÃ®tre digreskiÃ± v. 95
 dÃ©ductibilitÃ© dedusadusted f. 27, 86
 dÃ©ductible dedusadus ad. 27, 86
 dÃ©ductif deduktivel ad. 27, 86
 dÃ©duction deduksion, dedusadur 27, 86
-dÃ©duire dedusin v. 27, 86
+dÃ©duire dedusiÃ± v. 27, 86
 dÃ©faut (par) dre ziouver, dre zefot 96
 dÃ©fini termenet ad. 277
-dÃ©finir termenan v. 277
+dÃ©finir termenaÃ± v. 277
 dÃ©finition termenadur m. 48, 277
 dÃ©formation diformadur m. 277 
-dÃ©former diformin v.
+dÃ©former diformiÃ± v.
 degrÃ© derez m. 87
-delta (Î´, ?), delta 87
+delta (Î´, ğš«) delta 87
 demi- hanter- 131
 demi-axe hanter-ahel m. 131
 demi-cercle hanter-gelc'h m. 132
@@ -444,32 +444,32 @@ descriptive (gÃ©omÃ©trie) geometriezh deskriptivel 95
 description deskrivadur m.
 descendante diskennant ad. 98
 descendante (chaÃ®ne) chadenn diskennant
-descente infinie diskenn in?nit f. 98
-déterminant determinant m. 27, 89
-déterminer determinan v. 89
-développabilité diorroadusted f. 96
-développable diorroadus ad. 28, 96
-développée diorroenn m. 28, 96
-développement diorroadur m. 28, 96
-développement décimal diorroadur degel 96
-développer diorren v. 28, 96
+descente infinie diskenn infinit f. 98
+dÃ©terminant determinant m. 27, 89
+dÃ©terminer determinaÃ± v. 89
+dÃ©veloppabilitÃ© diorroadusted f. 96
+dÃ©veloppable diorroadus ad. 28, 96
+dÃ©veloppÃ©e diorroenn m. 28, 96
+dÃ©veloppement diorroadur m. 28, 96
+dÃ©veloppement dÃ©cimal diorroadur degel 96
+dÃ©velopper diorren v. 28, 96
 dia- 90
 diable (escalier du) skalier au diaoul m. 91
 diagonal diagonal ad. 28, 90
 diagonale diagonalenn f. 28. 90
 diagramme m. diagramm m. 91
-diagramme en bâtons diagramm e bizhier 91
+diagramme en bÃ©tons diagramm e bizhier 91
 diagramme circulaire diagramm kelc'hieg 91
-diamétral diametral ad. 28, 91
-diamétralement ent-diametral adv. 28, 91
-diametre diametr m. 28, 91
+diamÃ©tral diametral ad. 28, 91
+diamÃ©tralement ent-diametral adv. 28, 91
+diamÃ¨tre diametr m. 28, 91
 dichotomie dikotomiezh f. 95
-diedre diedr m. 93
-différence diferans f. 21, 45, 93
-différent (de) diforc'h (diouzh) ad. 45, 94
+diÃ¨dre diedr m. 93
+diffÃ©rence diferaÃ±s f. 21, 45, 93
+diffÃ©rent (de) diforc'h (diouzh) ad. 45, 94
 dimension ment m. 198
 diophantien diofantian ad. 96 
-données roennou f. 252
+donnÃ©es roennou f. 252
 direct eeun, direkt ad. 29, 97, 103 
 double doubl ad. 101
 direct (produit) produ direkt 29, 237 
@@ -484,168 +484,169 @@ droit (cylindre) silendr reizh 30, 247
 droite eeunenn f. 31, 103
 directeur (coefficient) koeffisiant durc'haer 
 direction durc'hadur m. 29, 102
-droite graduée eeunenn dereziet f. 88
+droite graduÃ©e eeunenn dereziet f. 88
 discontinu digendalc'hus ad. 94 
-discontinuité digendalc'husted f. 94 
-duodécimal daou-zegel ad. 85
+discontinuitÃ© digendalc'husted f. 94 
+duodÃ©cimal daou-zegel ad. 85
 discriminant diskriminant ad/m. 27, 98
 disjoindre disjuntan v. 29, 97
 disjoint disjunt ad. 29, 97
 dynamique dinamikel ad. 96
 disjonction disjuntadur m. 29, 97
-dzéta (?) dzeta 102
+dzÃ©ta (Î¶) dzeta 102
 disque disk m. 24, 97
-dissymétrie dissimetriezh f. E
-dissymétrique dissimetreg ad.
-distance distans f. 29, 99
-écart diskart m. 29, 98
+dissymÃ©trie dissimetriezh f. E
+dissymÃ©trique dissimetreg ad.
+distance distaÃ±s f. 29, 99
+Ã©cart diskart m. 29, 98
 distributif distributivel ad. 24, 99 
-écart angulaire diskart-ankl m. 98
+Ã©cart angulaire diskart-ankl m. 98
 distribution distribussion f. 30, 99
-écart-type diskart-tip m. 98
-distributivité distributivelezh f. 24, 99
-échantillon standilhon m. 270
+Ã©cart-type diskart-tip m. 98
+distributivitÃ© distributivelezh f. 24, 99
+Ã©chantillon standilhon m. 270
 divergence diverjans f. 99
-échelle skeul f. 267
+Ã©chelle skeul f. 267
 divergent diverjant ad. 99
-échelle métrique skeul metreg 267
+Ã©chelle mÃ©trique skeul metreg 267
 diverger diverjin v. 99
-éclipse eklipsenn f. 104
+Ã©clipse eklipsenn f. 104
 dividende ranned m. 244
 diviser rannan v. 30, 244
-écriture skritur f.
+Ã©criture skritur f.
 diviseur ranner m. 244
-écriture décimale skritur degel f.
+Ã©criture dÃ©cimale skritur degel f.
 diviseur commun ranner boutin 244
 effectif niverad m. 211
-diviseur de zéro ranner eus zero 244
+diviseur de zÃ©ro ranner eus zero 244
 effectif efektivel ad. 103
-divisibilité rannadusted f. 244
-effectivité efektivelezh f. 103
+divisibilitÃ© rannadusted f. 244
+effectivitÃ© efektivelezh f. 103
 divisible rannadus ad. 30, 244
 effet efed m. 103
 division rannadur m. 21, 30, 244
 efficace efedus ad. 103
 division euclidienne rannadur euklidian 244
-efficacité efedusted f. 103
-dodécaedral dodekaedrel ad. 100
-égal (a) kevatal (da) ad. 31, 162
-dodécaedre dodekaedr m. 100
-égalité kevatalder m. 31, 162
-dodécagonal dodekagonel ad. 100
-égalité remarquable kevatalder remerkus
-dodécagone dodekagon m. 100
-égyptien ejipsian ad.
+efficacitÃ© efedusted f. 103
+dodÃ©caedral dodekaedrel ad. 100
+Ã©gal (a) kevatal (da) ad. 31, 162
+dodÃ©aedre dodekaedr m. 100
+Ã©galitÃ© kevatalder m. 31, 162
+dodÃ©cagonal dodekagonel ad. 100
+Ã©galitÃ© remarquable kevatalder remerkus
+dodÃ©cagone dodekagon m. 100
+Ã©gyptien ejipsian ad.
 eikosiheptagramme ikosiheptagramm 143
-élément elfenn f. 106
-élémentaire elfennel ad. 106
-élémentaire (géométrie) geometriezh elfennel 106
-élever sevel v. 260
-élever un nombre au carré savel un niver d'ar c'harrez
-élimination eslamadur m. 31, 110
-éliminer une variable eslemel ur variantenn 31, 110
+Ã©lÃ©ment elfenn f. 106
+Ã©lÃ©mentaire elfennel ad. 106
+Ã©lÃ©mentaire (gÃ©omÃ©trie) geometriezh elfennel 106
+Ã©lever sevel v. 260
+Ã©lever un nombre au carrÃ© savel un niver d'ar c'harrez
+Ã©limination eslamadur m. 31, 110
+Ã©liminer une variable eslemel ur variantenn 31, 110
 ellipse elipsenn f. 106
-ellípsoidal elipsoidel ad. 107
-ellipsoide elipsoid m.. 107
-ellipsoide de révolution elipsoid-tro m. 107
+ellÃ©psoÃ¯dal elipsoÃ¯del ad. 107
+ellipsoÃ¯de elipsoÃ¯d m. 107
+ellipsoÃ¯de de rÃ©volution elipsoÃ¯d-tro m. 107
 elliptique eliptik ad. 107
-éloignement pellder m. 29, 225
-emboîté embouestet ad. 107
+Ã©loignement pellder m. 29, 225
+emboÃ®tÃ© embouestet ad. 107
 empilement entessadur m. 109
-empiler entessin v.
+empiler entessiÃ± v.
 encadrement sterniadur f. 272
 encadrer sternian v. 272
-énergie energiezh f.
-engendrer engehentan v. 108
-engendré (par) engehentet (gant) ad. 108
-ennéagone enneagon m. 108
-énoncé enonsiad m. 48, 108
-énoncer enonsin v.
-énonciation enonsiadenn f. 108
+Ã©nergie energiezh f.
+engendrer engehentaÃ± v. 108
+engendrÃ© (par) engehentet (gant) ad. 108
+ennÃ©agone enneagon m. 108
+Ã©noncÃ© enonsiad m. 48, 108
+Ã©noncer enonsiÃ± v.
+Ã©nonciation enonsiadenn f. 108
 ensemble teskad m. 278
 entier anterin ad/m. 59
 entier naturel anterin naturel m. 60
 entier relatif anterin relativel m. 60
 entier de Gauss anterin Gauss
-entraîner (impliquer) emplegan v. 107
+entraÃ®ner (impliquer) emplegaÃ± v. 107
 entropie entropiezh f 109
-épi- epi- 109
-epsilon (?) epsilon 109
-equateur keheder m. 157
-équation kevatalenn b. 162
-équation (mettre en) kevatalennin u. 163
-équation (mise en) kevatalennadur m. 163
-équatorial kehederel ad. 147
-équerre skwer m. 267
-équi- ekwi-, ke- 105, 157
-équidistance ekwidistans ad. 158
-équidistant (da) ekwidistant (diouzh) ad. 158
-équilatéral kekostezeg ad. 27, 46, 158
-équilibre kempoues m. 158
-équinoxe kehedez m. 158
-équipotence ekwipotans f. 31, 105
-équipotent (a) ekwipotant (da) ad. 31, 105
-équiprobabilité ekwiprobapted f. 106
-équiprobable ekwiprobabl ad. 106
-équivalence ekwivalans f. 32, 106
-équivalent (a) ekwivalant (da) ad. 32, 106
+Ã©pi- epi- 109
+epsilon (Îµ, ğš¬) epsilon 109
+Ã©quateur keheder m. 157
+Ã©quation kevatalenn b. 162
+Ã©quation (mettre en) kevatalenniÃ± v. 163
+Ã©quation (mise en) kevatalennadur m. 163
+Ã©quatorial kehederel ad. 147
+Ã©querre skwer m. 267
+Ã©qui- ekwi-, ke- 105, 157
+Ã©quidistance ekwidistaÃ±s ad. 158
+Ã©quidistant (da) ekwidistant (diouzh) ad. 158
+Ã©quilatÃ©ral kekostezeg ad. 27, 46, 158
+Ã©quilibre kempoues m. 158
+Ã©quinoxe kehedez m. 158
+Ã©quipotence ekwipotaÃ±s f. 31, 105
+Ã©quipotent (a) ekwipotant (da) ad. 31, 105
+Ã©quiprobabilitÃ© ekwiprobapted f. 106
+Ã©quiprobable ekwiprobabl ad. 106
+Ã©quivalence ekwivalaÃ±s f. 32, 106
+Ã©quivalent (a) ekwivalant (da) ad. 32, 106
 erreur error m. 110
 escalier skalier m. 266
 escalier (fonction en) fonksion a skalier
 espace spass m. 46, 269
-espece spess m.. 269
-espérance mathématique esperans matematik f. 110
-essentiel essansiel 110
-ET (?) HA, HAG 131
-eta (?) eta 111euclidien euklidian ad. 111
-eulérien eulerian ad. 112
-évaluation evaluadur m. 112
-évaluer evaluin v. 112
-événement darvoud m. 32, 85
-éventualité c'hoarvoud m. 32, 83
-éventuel c'hoarvoudel ad. 32, 83 
-évident anad ad.
-exa-  : x10^18 egza- 103
+espece spess m. 269
+espÃ©rance mathÃ©matique esperaÃ±s matematik f. 110
+essentiel essaÃ±siel 110
+ET (âˆ§)  HA, HAG 131
+eta (Î·) eta 111 
+euclidien euklidian ad. 111
+eulÃ©rien eulerian ad. 112
+Ã©valuation evaluadur m. 112
+Ã©valuer evaluiÃ± v. 112
+Ã©vÃ©nement darvoud m. 32, 85
+Ã©ventualitÃ© c'hoarvoud m. 32, 83
+Ã©ventuel c'hoarvoudel ad. 32, 83 
+Ã©vident anad ad.
+exa- (E) Ã—10^18 egza- 103
 exact rik ad. 23, 252
 exactitude rikted f. 252
-excentricité eksantregezh f. 104
+excentricitÃ© eksantregezh f. 104
 excentrique eksantreg ad. 104
-excepté seped
+exceptÃ© seped
 exceptionnel sepedel ad. 259
 exces ekses m. 104
 exclu eskloset ad. 32, 110
-exclure esklosan v. 32, 110
+exclure esklosaÃ± v. 32, 110
 exclusif esklosus ad. 111
 exclusion esklosadur f. 110
 exister bezan, bond v. 69
-existe (il) bez'ez eus, bond ez eus v. 69
-existe un ... au moins (il) bez°ez eus un ... d'an nebeutan
+existe (il) bez'ez eus, boud ez eus v. 69
+existe un ... au moins (il) bez'ez eus un ... d'an nebeutaÃ±
 existence bezoud n.v. 32, 69
 existentiel -bezoud ad. 32, 69
-expérience arnodad ad. 64
+expÃ©rience arnodad ad. 64
 explication esplegadur m.
 explicite espleg ad. 36, 110
 expliciter esplegataad v. 36, 110
-expliquer esplegan v.
+expliquer esplegaÃ± v.
 exponentiation eksponantadur m. 105
-exponentiel eksponansiel ad. 104
-exponentielle eksponansiel m. 105
+exponentiel eksponaÃ±siel ad. 104
+exponentielle eksponaÃ±siel m. 105
 exposant eksponant m. 105
 expression estaolad m. 110
 exprimer esteurel, esteuler v. 111
 extension emledadur m. 26, 107
 extension ledanadur m. 184
-extérieur diavaes ad/m. 92
+extÃ©rieur diavaes ad/m. 92
 externe -diavaes ad. 92
 extraction estennadur m. 110
-extraire estennan v. 110
+extraire estennaÃ± v. 110
 extrait estennet ad. 110
 extrapolation ekstrapoladur m. 105
-extrapoler ekstrapolin v. 105
-extrémal ekstremal ad. 105
-extrémale ekstremalenn f. 105
-extrémité dibenn f. 92
-extrémités pennou m. 226
+extrapoler ekstrapoliÃ± v. 105
+extrÃ©mal ekstremal ad. 105
+extrÃ©male ekstremalenn f. 105
+extrÃ©mitÃ© dibenn f. 92
+extrÃ©mitÃ©s pennoÃ¹ m. 226
 extremum extremum 112
 
 F
@@ -663,11 +664,11 @@ faut (il) red eo 246
 faut (il) et il sufit red eo ha bastus eo 246
 faut (il) et il sufit red eo ha sufiss eo 246
 faux faos ad. 113
-femto- (f) : ×10^-15 fenito- 114
-fermé (intervalle) interval serr 259
-fermé serred m. 260
-fermé a droite serr a-zehou ad. 259
-fermé a gauche serr a-gleis ad. 259
+femto- (f) : Ã—10^-15 fenito- 114
+fermÃ© (intervalle) interval serr 259
+fermÃ© serred m. 260
+fermÃ© a droite serr a-zehoÃ¹ ad. 259
+fermÃ© a gauche serr a-gleis ad. 259
 feuillet feuilhed m. 115
 figure figurenn f. 115
 fini finit ad. 33, 116
@@ -675,157 +676,157 @@ fini (ensemble) teskad finit 33, 116
 fonction fonksion f. 23, 117
 fonction continue fonksion g-kendalc'hus
 fondamental diasez ad. 92
-fondements diasou m.
+fondements diasoÃ¹ m.
 formalisation formalisadur m. 118
-formaliser formalisan v. 118
+formaliser formalisaÃ± v. 118
 forme form f. 117
 formel formel ad. 118
 formel (calcul) jedadur formel 118
 formulation formuladur f. 118
 formule formulenn f. 118
-formuler formulin v.
+formuler formuliÃ± v.
 fractal fraktal ad. 118
 fractale fraktalenn f. 118
 fraction fraksion f. 33, 118
 fractionnaire fraksionel ad. 33, 118
-fréquence frekans f. 119
+frÃ©quence frekaÃ±s f. 119
 
 G
-galiléen galilean ad. 126
+galilÃ©en galilean ad. 126
 galoisien galoasian ad. 121
-gamma (?) gamma 122
+gamma (Î³, Î“) gamma 122
 gaussien gaossian ad. 122
-général jeneral ad. 34, 153
-généralisation jeneralisadur m. 34, 153
-généralisé jeneraliset ad. 34, 153
-généraliser jeneralisan v. 34
-généralité jeneralded f. 34, 153
-géométrie geometriezh f. 34, 123
-géométrie elliptique geometriezh eliptik
-géométrie euclidienne geometriezh Ouklidian
-géométrie hyperbolique geometr. hiperboleg
-géométrie métrique geometriezh metreg
-géométrique geometreg ad. 34, 122
-géométrisation geometrisadur m. 124
-giga- (G) : ×10^9 giga- 125
+gÃ©nÃ©ral jeneral ad. 34, 153
+gÃ©nÃ©ralisation jeneralisadur m. 34, 153
+gÃ©nÃ©ralisÃ© jeneraliset ad. 34, 153
+gÃ©nÃ©raliser jeneralisaÃ± v. 34
+gÃ©nÃ©ralitÃ© jeneralded f. 34, 153
+gÃ©omÃ©trie geometriezh f. 34, 123
+gÃ©omÃ©trie elliptique geometriezh eliptik
+gÃ©omÃ©trie euclidienne geometriezh Ouklidian
+gÃ©omÃ©trie hyperbolique geometr. hiperboleg
+gÃ©omÃ©trie mÃ©trique geometriezh metreg
+gÃ©omÃ©trique geometreg ad. 34, 122
+gÃ©omÃ©trisation geometrisadur m. 124
+giga- (G) : Ã—10^9 giga- 125
 glissement riskladur m. 117
-glissée (symétrie) simetriezh risklet 252
+glissÃ©e (symÃ©trie) simetriezh risklet 252
 global global ad. 34, 125
 globalement ent-global adv. 34, 125
 globalisation globalisadur m. 34, 125
-globaliser globalisan v. 34, 125
-globalité globalded f. 34, 125
+globaliser globalisaÃ± v. 34, 125
+globalitÃ© globalded f. 34, 125
 gnomon gnomon m. 125
 gradient gradiant, m.. 126
 graduation dereziadur, graduadur m. 88, 126
-gradué dereziet, graduet ad. 88, 126
+graduÃ© dereziet, graduet ad. 88, 126
 graduer derezian, graduin v. 88
 grammaire yezhadur m. 299
 gramme gramm m. 126
 grand bras ad. 76
 grand (infiniment) bras-infinit ad. 76
-grand (plus... que) brassoc'h eged ad. 76
+grand (plus ... que) brassoc'h eged ad. 76
 grandeur braster m. 76
 graphe graf m. 126
-graphique grafik m.. 126
+graphique grafik m. 126
 graphique grafikel ad. 126
 gravitation gravitadur m. 35, 126
-gravité gravite f. 24, 126
-gravité (centre de) kreisenn-gravite 24, 126
-graviter gravitan v. 35, 126
+gravitÃ© gravite f. 24, 126
+gravitÃ© (centre de) kreisenn-gravite 24, 126
+graviter gravitaÃ± v. 35, 126
 
 H
-harmonique harmonik m.. 132
+harmonique harmonik m. 132
 harmonique harmonikel ad. 132
 hasard asard m. 32, 64
 hauteur uhelder m. 35, 289
 hauteur uhelderenn f. 35, 289
 hectare hektar ad. 133
-hecto- (h) : ×10^2 hekto- 133
-hélice heliss m. 133
-hélicoidal helikoidel ad. 133
-hélicoide helikoid m. 133
-hémisphere hemisferenn f, 133
-hendécagone hendekagon m. 133
-heptadécagone heptadekagon m. 134
-heptaedre heptaedr m. 135
+hecto- (h) : Ã—10^2 hekto- 133
+hÃ©lice heliss m. 133
+hÃ©licoÃ¯dal helikoÃ¯del ad. 133
+hÃ©licoÃ¯de helikoÃ¯d m. 133
+hÃ©misphÃ¨re hemisferenn f, 133
+hendÃ©cagone hendekagon m. 133
+heptadÃ©cagone heptadekagon m. 134
+heptaÃ¨dre heptaedr m. 135
 heptagone heptagon m. 135
-hétérogene heterogeneg ad. 136
+hÃ©tÃ©rogÃ¨ne heterogeneg ad. 136
 horizontale horizontalenn f. 35, 141
-horizontalité horizontalded f. 35, 141
+horizontalitÃ© horizontalded f. 35, 141
 hyper- hiper- 136
 hyperbole hiperbolenn f. 137
 hyperbolique hiperboleg ad. 136
 hyperbolique (fonction) fonksion hiperboleg
-hyperboloide hiperboloid m. 137
-hexaedre hegzaedr m. 133
-hexadécimal c'hwe-zegel ad. 83
+hyperboloÃ¯de hiperboloÃ¯d m. 137
+hexaÃ¨dre hegzaedr m. 133
+hexadÃ©cimal c'hwe-zegel ad. 83
 hexagonal hegzagonel ad. 133
 hexagone hegzagon m. 133
 hexagramme hegzagramm m. 133
 histogramme histogramm m. 138
 homo- homo- 139
-homogene homogeneg ad. 139
+homogÃ¨ne homogeneg ad. 139
 homologue homologel ad. 22, 140
-homothétie homotetiezh f. 140
-homothétique homoteteg ad. 140
+homothÃ©tie homotetiezh f. 140
+homothÃ©tique homoteteg ad. 140
 horizon horizon m. 35, 141
 horizontal horizontal ad. 35, 141
-hyperélliptique hipereliptik ad. 137
-hypergéométrique hipergeometreg ad. 137
+hyperÃ©lliptique hipereliptik ad. 137
+hypergÃ©omÃ©trique hipergeometreg ad. 137
 hypergraphe hipergraf m. 137
 hyperplan hiperplan m. 138
 hyperquadrique hiperkwadrikenn f. 138
 hypersphere hipersferenn f. 138
 hypersurface hipergorreenn ad. 137
 hypo- hipo- 138
-hypothénuse hipotcnusenn f. 138
+hypothÃ¨nuse hipotcnusenn f. 138
 hypothese hipotesenn f. 48, 138
-hypothético-déductif hipotetiko-deduktivel ad. 138
-hypothétique hipoteteg ad. 138
+hypothÃ©tico-dÃ©ductif hipotetiko-deduktivel ad. 138
+hypothÃ©tique hipoteteg ad. 138
 
 I
-icosaedre ikosaedr m. 143
-idéal ideal m. 143
-idéal premier ideal prim 143
-idéal principal ideal pennan 143
+icosaÃ¨dre ikosaedr m. 143
+idÃ©al ideal m. 143
+idÃ©al premier ideal prim 143
+idÃ©al principal ideal pennaÃ± 143
 identification identifiadur m. 36, 143
-identifier identifian v. 36, 143
+identifier identifiaÃ± v. 36, 143
 identique identel ad. 36, 143
 identiquement end-identel ad. 36, 143
 identiquement nul null end-identel ad.
-identité identite f. 36, 143
+identitÃ© identite f. 36, 143
 image skeudenn f. 267
 imaginaire imajinar ad. 143
 imaginaire pur imajinar pur ad. 143
 impair ampar ad. 31, 57 
 implication emplegadur m. 36, 107
 implicite empleg ad. 36, 107
-impliquer emplegan u. 36, 107
-impossibilité dibossupted f. 93
+impliquer emplegaÃ± u. 36, 107
+impossibilitÃ© dibossupted f. 93
 impossible dibossubl ad. 93
 incertitude diassurded f. 92
-incidence insidans f. 145
+incidence insidaÃ±s f. 145
 incident insidant ad. 145
-inclure enklosan v. 32, 108
+inclure enklosaÃ± v. 32, 108
 inclus enkloset ad. 32, 108
 inclusif enklosus ad. 32, 108
 inclusion enklosadur m. 32, 108
-incommensurabilité digenvusuliadusted f. 94
+incommensurabilitÃ© digenvusuliadusted f. 94
 incommensurable digenvusuliadus ad. 94
-incompatibilité digendere f. 94
+incompatibilitÃ© digendere f. 94
 incompatible digendere ad. 94
 incomplet diglok ad. 94
-incomplétude diglokted f. 25, 95
+incomplÃ©tude diglokted f. 25, 95
 inconnue dianavenn f. 91
-indécidabilité andessidadusted f. 58
-indécidable andessidadus ad. 58
-indécomposable andigomposadus ad. 58
-indéfini antermenet ad. 60
-indémontrable dianatadus ad. 91
-indépendance di-zepantusted f. 27. 100
-indépendant (de) di-zepant (diouzh) ad. 27, 100
-indexer indeksin v. 144
+indÃ©cidabilitÃ© andessidadusted f. 58
+indÃ©cidable andessidadus ad. 58
+indÃ©composable andigomposadus ad. 58
+indÃ©fini antermenet ad. 60
+indÃ©montrable dianatadus ad. 91
+indÃ©pendance di-zepantusted f. 27. 100
+indÃ©pendant (de) di-zepant (diouzh) ad. 27, 100
+indexer indeksiÃ± v. 144
 indicateur diskweler m.. 36, 98
 indication diskweladenn ad. 36
 indicatrice diskweleres f. 36, 98
@@ -836,90 +837,90 @@ individu hinienn f. 136
 indo-arabe indo-arabeg ad. 144
 inductif induktivel ad. 36, 144
 induction induksion, indusadur m. 36, 144
-induire indusin v. 36, 144
+induire indusiÃ± v. 36, 144
 induit induset ad. 36, 144
-inégal digevatal ad. 144
-inégalité digevatalder m. 31, 94
-inégalité triangulaire digevatalder tric'horneg m. 31, 94
-inéquation digevatalenn f. 31, 94
+inÃ©gal digevatal ad. 144
+inÃ©galitÃ© digevatalder m. 31, 94
+inÃ©galitÃ© triangulaire digevatalder tric'horneg m. 31, 94
+inÃ©quation digevatalenn f. 31, 94
 inertie inertiezh f. 144
 inexact anrik ad. 59
 inexactitude anrikted f. 59
-inférence inferans f. 144
-inférer inferin v. 144
-inférieur (a) bihannoc'h (eged) ad. 30. 70
-inférieur issan ad. 36, 151
-inférieure (borne) born issan 36, 74
-inférieure dimite) limit issan 35, 187
-inférieurement end-issan adv. 36, 144
+infÃ©rence inferaÃ±s f. 144
+infÃ©rer inferiÃ± v. 144
+infÃ©rieur (a) bihannoc'h (eged) ad. 30. 70
+infÃ©rieur issan ad. 36, 151
+infÃ©rieure (borne) born issaÃ± 36, 74
+infÃ©rieure dimite) limit issaÃ± 35, 187
+infÃ©rieurement end-issaÃ± adv. 36, 144
 infini infinit ad/g. 36, 144
 infiniment infinit adv. 144
-infinité infinit g. 36, 145
-infinitésimal infinitesimal ad. 36, 145
+infinitÃ© infinit g. 36, 145
+infinitÃ©simal infinitesimal ad. 36, 145
 infinitude infinited b. 36, 145
 inflexion infleksion f. 145
 initial initial ad. 37, 145
 initialisation initialisadur m. 37, 145
-initialiser initialisan v. 37, 145
+initialiser initialisaÃ± v. 37, 145
 injectif injektivel ad. 23, 145
 injection injeksion f. 23, 145
-injectivité injektivelezh f. 145
+injectivitÃ© injektivelezh f. 145
 inscriptible enskrivadus ad. 109
 inscrire enskrivan v. 109
 inscrit enskrivet ad. 109
-instabilité distabilded f. 99
+instabilitÃ© distabilded f. 99
 instable distabil ad. 99
 instant istant. m. 150
-inter (?) inter 146
-instantané istantel ad. 151
-intérieur diabarzh ad/m. 38, 90
-intermédiaire -etre ad. 38, 111
+inter (âˆ©) inter 146
+instantanÃ© istantel ad. 151
+intÃ©rieur diabarzh ad/m. 38, 90
+intermÃ©diaire -etre ad. 38, 111
 interne -diabarzh ad. 38, 90
 Internet Internet 146
 interpolation interpoladur m. 146
 issu (de) o toned eus
-interpoler interpolin v. 146
-itératif iterativel ad. 151
-interprétation interpretadur m. 146
-itération iteradur m. 151
-interpréter interpretin v. 146
-itéré itered m. 151
+interpoler interpoliÃ± v. 146
+itÃ©ratif iterativel ad. 151
+interprÃ©tation interpretadur m. 146
+itÃ©ration iteradur m. 151
+interprÃ©ter interpretiÃ± v. 146
+itÃ©rÃ© itered m. 151
 interquartile interkwartil ad. 146
-itérée iterenn f. 151
+itÃ©rÃ©e iterenn f. 151
 intersection interseksion f. 38, 144
-itérer iterin v. 151
+itÃ©rer iteriÃ± v. 151
 intervalle interval m. 38, 147
-intervalle de confiance interval-fizians 147 J
-intrinseque intrinsek ad. 38, 147
-invariance invarians f. 47, 147 
+intervalle de confiance interval-fiziaÃ±s 147
+intrinsÃ¨que intrinsek ad. 38, 147
+invariance invariaÃ±s f. 47, 147 
 jeu c'hoari m. 83
 invariant invariant ad/m. 47, 147 
-jeu de dés c'hoari dinsou 83
+jeu de dÃ©s c'hoari dinsoÃ¹ 83
 inverse invers ad. 38, 147
-jeu a pile ou face c'hoari pil pe groas 83
-inverses (éléments) elfennou invers 38, 147
-inverses (figures) figurennou invers 38, 147
-joindre juntan v. 154
+jeu Ã  pile ou face c'hoari pil pe groas 83
+inverses (Ã©lÃ©ments) elfennoÃ¹ invers 38, 147
+inverses (figures) figurennoÃ¹ invers 38, 147
+joindre juntaÃ± v. 154
 inversement end-invers adv. 38, 147
-inverser inversin v. 38, 148
-jumeaux (nombres) niverou gevell 124
-inversibilité inversadusted f. 38, 148
+inverser inversiÃ± v. 38, 148
+jumeaux (nombres) niveroÃ¹ gevell 124
+inversibilitÃ© inversadusted f. 38, 148
 Jupiter Jupiter 154
 inversible inversadus ad. 38, 148
 inversion inversadenn, inversadur 38, 147 K
-iota (?) iota 148
-kappa (?) kappa 155
-irrationalité anrassionalded f. 59
-khi (?) khi 163
+iota (Î¹,Î™) iota 148
+kappa (Îº,Îš) kappa 155
+irrationalitÃ© anrassionalded f. 59
+khi (Ï‡, Î§) khi 163
 irrationnel anrassional ad. 59
-kilo- (k) : ×10^3, kilo- 163
-irréductibilité diredusadusted f. 43, 97
-ksi (?) ksi 178
-irréductible diredusadus ad. 43, 97
-irrégulier direol(ieg) ad. 97 L
-irrégularité direoliegezh f. 97
+kilo- (k) : Ã—10^3, kilo- 163
+irrÃ©ductibilitÃ© diredusadusted f. 43, 97
+ksi (Î¾,Î) ksi 178
+irrÃ©ductible diredusadus ad. 43, 97
+irrÃ©gulier direol(ieg) ad. 97 L
+irrÃ©gularitÃ© direoliegezh f. 97
 iso- iso- 149
-lambda (?) lambda 183
+lambda (Î»,Î›) lambda 183
 isobarycentre isobarikreisenn f. 149
 langage langaj m. 183
 isocele isoskel ad. 46, 150
@@ -928,48 +929,48 @@ isochrone isokron ad. 149
 isogonal isogonal ad. 149
 largeur ledander m. 38, 184
 isolation isoladur m. 149
-latéral kostezel ad. 174
-isolé isolet ad. 149
-isoler isolin v. 149
+latÃ©ral kostezel ad. 174
+isolÃ© isolet ad. 149
+isoler isoliÃ± v. 149
 latitude ledenn f. 38, 184
-isométrie isometriezh f. 149
+isomÃ©trie isometriezh f. 149
 lemme lemma m. 48, 185
-isométrie afine isometriezh afin f. 149
+isomÃ©trie afine isometriezh afin f. 149
 lettre lizherenn f.
-isométrique isometreg ad. 149
-liberté librentez f. 186
+isomÃ©trique isometreg ad. 149
+libertÃ© librentez f. 186
 libre libr ad. 186
 isotope isotopel ad. 150
-lié liammet ad. 186
+liÃ© liammet ad. 186
 isotopie isotopiezh f. 150
-lieu géométrique lec'h geometreg m. 39, 184
+lieu gÃ©omÃ©trique lec'h geometreg m. 39, 184
 ligne linenn f. 31, 188
 ligne de niveau linenn-live f. 188
-limaçon de Pascal maligorn Pascal m. 194
+limaÃ§on de Pascal maligorn Pascal m. 194
 limite limit f. 33, 187
 limite inductive limit induktivel f. 33. 187
-limite inférieure limit issan f. 33, 187
-limite supérieure limit ussan f. 33, 187
-linéaire linear ad. 39, 188
-linéaire (algebre) aljebr linear 39, 188
-linéaire (systeme) sistem linear 39, 188
-linéairement end-linear adv. 39, 188
-linéarisation linearisadur m. 39, 188
-linéariser linearisan v. 39, 188
-linéarité linearded f. 39, 188
-littéral lizherennel ad. 190
+limite infÃ©rieure limit issaÃ± f. 33, 187
+limite supÃ©rieure limit ussaÃ± f. 33, 187
+linÃ©aire linear ad. 39, 188
+linÃ©aire (algÃ¨bre) aljebr linear 39, 188
+linÃ©aire (systeme) sistem linear 39, 188
+linÃ©airement end-linear adv. 39, 188
+linÃ©arisation linearisadur m. 39, 188
+linÃ©ariser linearisaÃ± v. 39, 188
+linÃ©aritÃ© linearded f. 39, 188
+littÃ©ral lizherennel ad. 190
 local lokal ad. 34, 191
 localement end-lokal adv. 34, 191
 localisation lokalisadur m. 34, 191
-localisé lokalised m. 34, 192
-localiser lokalisan v. 34, 191
+localisÃ© lokalised m. 34, 192
+localiser lokalisaÃ± v. 34, 191
 logarithme logaritm m. 23, 190
-logarithme intégral logaritm integral 191
+logarithme intÃ©gral logaritm integral 191
 logarithmique logaritmeg ad. 191
 logique lojik g. 25, 191
 logique lojik ad. 25, 191
 log-normal log-normal ad. 191
-log-transformer log-transformin v. 91
+log-transformer log-transformiÃ± v. 91
 loi lesenn f. 185
 longitude hedenn f. 38, 133
 longitudinal hedennel ad. 133
@@ -979,38 +980,39 @@ lunule loarell b. 190
 
 M
 machine machin m. 193
-magique (carré) karrez majik 39, 193
+magique (carrÃ©) karrez majik 39, 193
 majeur major ad. 194
 majorant majorant ad/m. 194
 majoration majoradur m. 194
-majoré majoret ad. 194
-majorer majorin ad. 194
+majorÃ© majoret ad. 194
+majorer majoriÃ± ad. 194
 mantisse mantiss m. 195
 Mars Mars 195
-mathématicien matematikour m.
-mathématique matematik(el) ad. 38, 195
-Mathématique(s) Matematik(ou) m. 38, 195
-Mathématiques appliquées Matematik(ou) arveret 38. 195
-Mathématiques modernes Matematik(ou) modern 38, 195
-Mathématiques pures Matematik(ou) pur
-mathématisation matematisadur m. 195
+mathÃ©maticien matematikour m.
+mathÃ©matique matematik(el) ad. 38, 195
+MathÃ©matique(s) Matematik(oÃ¹) m. 38, 195
+MathÃ©matiques appliquÃ©es Matematik(oÃ¹) arveret 38. 195
+MathÃ©matiques modernes Matematik(oÃ¹) modern 38, 195
+MathÃ©matiques pures Matematik(oÃ¹) pur
+mathÃ©matisation matematisadur m. 195
 matrice matriss m. 196
 matriciel matrissel ad. 196
-maximalité maksimalded f. 194
+maximalitÃ© maksimalded f. 194
 maximal maksimal ad. 194
 maximisation maksimisadur m. 194
-maximum maximum ad/m. 196
-mécanique mekanik g. 197
-mécanique mekanikel ad. 197
-médian median ad. 39, 197
-médiane medianennn f. 39, 197
-médiateur mediator ad. 39, 197
-médiatrice mediatores f. 39. 197
-méga- (M : ×10^6) mega- 197
+maximum maksimum ad/m. 196
+mÃ©canique mekanik g. 197
+mÃ©canique mekanikel ad. 197
+mÃ©dian median ad. 39, 197
+mÃ©diane medianennn f. 39, 197
+mÃ©diateur mediator ad. 39, 197
+mÃ©diatrice mediatores f. 39. 197
+mÃ©ga- (M) : Ã—10^6 mega- 197
 membre esel m. 110
 Mercure Merkur 198
-méridien meridian ad/m. 198
-méridienne meridianenn f. 198
+mÃ©ridien meridian ad/m. 198
+mÃ©ridienne meridianenn f. 198
+mÃ©ridienne meridianenn f. 198
 mesurabilité musilliadusted f. 206
 mesurable musulliadus ad. 205
 mesure musul m. 205
