@@ -3,9 +3,9 @@
 Lexique Français Breton de mathématiques tiré de ***Geriadur ar Matematikoù*** (Dictionnaire des Mathématiques) de Jean Marot.  
 
 ## Notes :
-- ce lexique utilise l'orthographe interdialectale, pas celle du peurunvan ([comparatif des orthographes du Breton](https://fr.wikipedia.org/wiki/Orthographe_du_breton#Comparaison_des_orthographes))
-	- *ex* : krei**S**enn = krei**Z**enn ; adi**SS**ioniñ = adi**S**ioniñ ; bloa**w**ezh = bloa**v**ezh ...
-- j'ai pris la liberté de changer *maximum* proposé en Breton par *maksimum*, plus cohérent avec les autres orthographes (de même pour les autres **x** conservés en Breton);
+- ce lexique utilise l'orthographe interdialectale, pas celle du peurunvan ([comparatif des orthographes du Breton](https://fr.wikipedia.org/wiki/Orthographe_du_breton#Comparaison_des_orthographes)) ;
+	- *ex* : krei**S**enn = krei**Z**enn ; adi**SS**ioniñ = adi**S**ioniñ ; bloa**w**ezh = bloa**v**ezh ; ...
+- j'ai pris la liberté de changer *maximum* proposé en Breton par *maksimum*, plus cohérent avec les autres orthographes (de même pour les autres **x** conservés en Breton) ;
 - ce lexique est issue d'un OCR d'un scan PDF et a été relu et corrigé mais il peu subsister des erreurs / inconsistences ;
 - l'ordre alphabétique n'est pas toujours respecté pour l'instant, la proximité de certains textes étant source d'erreurs pour l'OCR ;
 - les scans d'origine sont disponibles sous forme de fichiers PNG ;
