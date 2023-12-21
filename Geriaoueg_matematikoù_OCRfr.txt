@@ -1738,463 +1738,448 @@ signifier sinifiaÃ± v. 265
 similitude heÃ±veliezh, haÃ±valiezh f. 134
 simple simpl ad. 263
 semi-continuitÃ© hanter-gendalcâ€™husted f. 132
-simplement ent-simpl, simpl-ha-siinpl 263
-semi-convergence semi-konverjans f. 257
+simplement ent-simpl, simpl-ha-simpl 263
+semi-convergence semi-konverjaÃ±s f. 257
 semi-convergent semi-konverjant ad. 257
 semi-cubique semi-kubeg ad. 257
-semi-défini hantcr-dermenet ad. 131
-semi-direct senli-direkt ad. 28, 257
-semi-distance semi-distans f. 29, 257
-semi-fermé hanter-sen' ad. 132
+semi-dÃ©fini hanter-dermenet ad. 131
+semi-direct semi-direkt ad. 28, 257
+semi-distance semi-distaÃ±s f. 29, 257
+semi-fermÃ© hanter-serr ad. 132
 semi-groupe semi~group m. 35, 257
 semi-harmonique semi-harmonikel ad. 257
-semi-linéaire semi-linear ad. 39, 257
+semi-linÃ©aire semi-linear ad. 39, 257
 semi-local semi-lokal ad. 34, 258
 semi-magique semi-majik ad. 39, 258
-semi-norme senii-nonn f. 258
+semi-norme semi-norm f. 258
 semi-ouvert hanter-zigor ad. 132
 semi-parfait semi-parfet ad. 258
 semi-polaire semi-polar ad. 258
 semi-premier semi-prim ml. 258
-senestrorsum senestrorsuln ad. 258
+senestrorsum senestrorsum ad. 258
 sens (orientation) tuadur m. 27, 288
-séparabilité scparadusted f. 29, 258
-séparable separadus ad. 29, 258
-séparation separadur m. 29, 258
-séparé separ ad. 29, 258
-séparer separin v. 29, 259
-séquence sekans ad. 256
-séquentiel sekansiel ad.
-série serienn f. 45, 259
-série entiere sericnn (galloudou) anterin 259
-série formelle serieun formel 45, 259
-série trigonométrique
-scricnn d-trigonolnetreg 259
-sesquilinéaire scskilinear ad. 39, 259
-sexagésimal tri-ugentel ad. 287
-sextillion (1036) sekstilion m. 257
-si... alors mar... neuse 195
-si et seulement si (ssi)
-lnar... ha hebkén lnar...(mmar) 195
+sÃ©parabilitÃ© separadusted f. 29, 258
+sÃ©parable separadus ad. 29, 258
+sÃ©paration separadur m. 29, 258
+sÃ©parÃ© separ ad. 29, 258
+sÃ©parer separiÃ± v. 29, 259
+sÃ©quence sekaÃ±s ad. 256
+sÃ©quentiel sekaÃ±siel ad.
+sÃ©rie serienn f. 45, 259
+sÃ©rie entiÃ¨re serienn (galloudoÃ¹) anterin 259
+sÃ©rie formelle serienn formel 45, 259
+sÃ©rie trigonomÃ©trique serienn d-trigonometreg 259
+sesquilinÃ©aire seskilinear ad. 39, 259
+sexagÃ©simal tri-ugentel ad. 287
+sextillion (10^36) sekstilion m. 257
+si ... alors mar ... neuse 195
+si et seulement si (ssi) mar ... ha hebken mar ... (mmar) 195
 simplexe simpleks m. 264
-simplicité simpted f. 264
-simpli?able simpladus ad. 264
+simplicitÃ© simpted f. 264
+simplifiable simpladus ad. 264
 simplification simpladur m. 264
 simplifier simplaad ad. 264
-simultané kevadeg ad. 162
-simultanément ent-kevadeg adv. 162
+simultanÃ© kevadeg ad. 162
+simultanÃ©ment ent-kevadeg adv. 162
 singleton unad m. 289
-singularité singularder m. 45, 265
+singularitÃ© singularder m. 45, 265
 singulier singular ad. 45, 265
 sinus sinus m. 265
 sinus hyperbolique sinus hiperboleg 265
-sinus intégral sinus integral 265
-sinusoidal sinusoidcl ad. 265
-sinusoide sinusoidenn f. 265
+sinus intÃ©gral sinus integral 265
+sinusoÃ¯dal sinusoÃ¯del ad. 265
+sinusoÃ¯de sinusoÃ¯denn f. 265
 situation lec'hiadur m. 184
-situation générale lecfhiadur jcncral 184
-situe' lec'hiet ad. 184
-situer lec'hian v. 184
+situation gÃ©nÃ©Ã©rale leccâ€™hiadur jeneral 184
+situÃ© lec'hiet ad. 184
+situer lec'hiaÃ± v. 184
 soit, soient bezet v. 69
 solaire -Heol, heolel ad,
 Soleil Heol 134
 solide soludenn f. 268
-solide de révolution soludenn-dro f. 268
+solide de rÃ©volution soludenn-dro f. 268
 solstice goursav-heol m. 124
 solution solvenn f. 44, 268
-sommabilité sonnnadusted f. 21, 269
+sommabilitÃ© sonnnadusted f. 21, 269
 sommable sommadus ad. 21, 268 *
-sommant sonnnant m. 269
-sommation sommadul* m. 21, 268
+sommant sommant m. 269
+sommation sommadur m. 21, 268
 sommatoire sommadurel ad. 268
 somme somm f. 21, 268
-somme directe sonnn direkt f. 268
-Sommer somman v. 21, 269
+somme directe somm direkt f. 268
+sommer sommaÃ± v. 21, 269
 sommet beg m. 42, 68
 sorte sort m.
-sous- is- 148
-348
- 
-i
+sous- is- 148i
 sous-additif is-aditivel ad. 148
-sous-additivité is-aditivelezh f. 2148
-sous-algebre is-aljebr m. 148
+sous-additivitÃ© is-aditivelezh f. 2148
+sous-algÃ¨bre is-aljebr m. 148
 sous-anneau is-anell m. 148
-sous-catégorie is-kategorienn f. 148
+sous-catÃ©gorie is-kategorienn f. 148
 sous-corps is-korf m. 148
 sous-ensemble is-teskad m. 151
 sous-espace is-spass m. 151
 sous-graphe is-graf m. 148
 sous-groupe is-group m. 148
-sous-harmonique is-harmonikcl ad. 149
+sous-harmonique is-harmonikel ad. 149
 sous-jacent (a) is-lec'hiet (douzh) ad. 149
 sous-matrice is-matriss m. 149
 sous-module is-modul m. 149
 sous-multiple is-lieskement ad. 148
-sous-normale is-nornialenn f. 149
+sous-normale is-normalenn f. 149
 sous-objet is-objet m. 149
 sous-structure is-struktur g. 151
 sous-suite is-heulienn f. 148
 sous-tangente is-tanjantenn f. 151
 soustraction lamadur m. 45, 183
-so_ustraire_le1n__el v. 44, 185
-sous-variété is-variote f. 151
-spécial spessial ad. 33, 269
-spécialisation spessialisadur m. 33, 270
-spécialiser spessialisan v. 33, 270
-spécialité spessialded f. 33, 270
+soustraire lemel v. 44, 185
+sous-variÃ©tÃ© is-variete f. 151
+spÃ©cial spessial ad. 33, 269
+spÃ©cialisation spessialisadur m. 33, 270
+spÃ©cialiser spessialisaÃ± v. 33, 270
+spÃ©cialitÃ© spessialded f. 33, 270
 spectral spektral ad. 269
 spectre spektr m. 269
-spéculatif spekulativel ad. 269
-sphere sferenn f. 24, 260
-sphérique -sferenn, sfereg ad. 260
+spÃ©culatif spekulativel ad. 269
+sphÃ¨re sferenn f. 24, 260
+sphÃ©rique -sferenn, sfereg ad. 260
 spineur spinor m. 269
 spinoriel spinorel ad. 269
 spiral spiral ad. 269
 spirale spiral f. 269
 spline splin m. 269
 sporadique sporadik ad. 270
-ssi 111111211* 195
+ssi mmar 195
 stabilisateur stabillaer m. 270
 stabiliser stabillaad v. 270
-stabilité stabilded f. 270
-stable Stabil ad. 270
+stabilitÃ© stabilded f. 270
+stable stabil ad. 270
 standard standard ad. 270
 stathme euclidien statm euklidian m. 271
 stationnaire stassionar ad. 270
 statique statik m. 270
 statique statikel ad. 270
-statistique(s) statistil<(ou) m. 271
+statistique(s) statistik(oÃ¹) m. 271
 statistique statistikel ad. 271
-stéradian stéradian m. 271
-stere ster m. 271 _
-stéréographie stereogra?ezh f. 271
-stéréographique stereografeg ad. 271
-stéréométrie stereometriezh f. 272
-stéréométrique stereometreg ad. 271
-stochasticité 'stokastikelezh f. 272
-stochastique stolcastik ad. 272
-stochastîquement ent-stokastik adv. 272
+stÃ©radian stÃ©radian m. 271
+stÃ¨re ster m. 271 _
+stÃ©rÃ©ographie stereografiezh f. 271
+stÃ©rÃ©ographique stereografeg ad. 271
+stÃ©rÃ©omÃ©trie stereometriezh f. 272
+stÃ©rÃ©omÃ©trique stereometreg ad. 271
+stochasticitÃ© stokastikelezh f. 272
+stochastique stokastik ad. 272
+stochastiquement ent-stokastik adv. 272
 strict strizh ad. 273
 strictement ent-strizh adv. 273
-strophoide strofoidcnn f. 273
+strophoÃ¯de strofoÃ¯denn f. 273
 structural struktural ad. 273
 structure skruktur m. 273
 subdiviser is-rannan v. 150
 subdivision is-rann f. 150
-subordonné (a) is-urzhiet (da) ad. 151
-substituer substituin v. 273
+subordonnÃ© (a) is-urzhiet (da) ad. 151
+substituer substituiÃ± v. 273
 substitution substituadenn f. 273
 successeur heulier m. 22, 136
 successif heulius ad. 22, 136
-suffisant bastus, su?ss ad. 68, 273
-su?it (il) bastus eo 273
+suffisant bastus, sufiss ad. 68, 273
+suffit (il) bastus eo 273
 suite heulienn f. 45, 136
-suite arithmétique heulienn aritmetik 136
+suite arithmÃ©tique heulienn aritmetik 136
 suite convergente heulienn g-konverjant 136
 suite croissante heulienn g-kreskant 136
-supérieur ussan ad. 292
-supérieure (borne) bonn ussan 74
-supérieure (limite) limit \nssan 187
-supérieur (a) brassozyh (eged) ad. 76
-supérieurement end-ussan adv. 271
+supÃ©rieur ussaÃ± ad. 292
+supÃ©rieure (borne) bonn ussaÃ± 74
+supÃ©rieure (limite) limit ussaÃ± 187
+supÃ©rieur (Ã ) brassocâ€™h (eged) ad. 76
+supÃ©rieurement end-ussaÃ± adv. 271
 superposable superposadus ad. 273
-superposer superposin v. 273
+superposer superposiÃ± v. 273
 superposition superposadur m. 273
-supplémentaire ouzhpennadel ad. 25, 220
+supplÃ©mentaire ouzhpennadel ad. 25, 220
 support suport m. 273
-suppositon suposatleml v. 47, 274
-sur sur ad. 274
+suppositon suposadenn v. 47, 274
+sÃ»r sur ad. 274
 sur-corps us-korf m. 2934
-surement sur-tre
+sÃ»rement sur-tre
 surface gorreenn f. 125
-surface de révolution gorreenn-dro f. 126
+surface de rÃ©volution gorreenn-dro f. 126
 surjectif surjektivel ad. 23, 273
 surjection surjeksion f. 23, 273
-surjectivité surjektivelezl1 f. 274
+surjectivitÃ© surjektivelezh f. 274
 syllogisme silojism m. 262
 symbole simbol m. 262
-symbolique siinboleg ad. 262
-symédiane simedianenn f. 262
-symétrie simetriezh f. 263
-symétrie anale simetriezh-ahel f. 263
-349
- 
-symétrie centrale simetriezll-kreis f. 263
-symétrique simetreg ad. 262
-symétrisable simetrisachxs ad. 263
-symétrisabilité simetrisadustecl f. 263
-symétrisation simetrisadur m. 263
-symétrisé simetrised m. 263
-symétriser sinletrisan v. 263
-symplectique simplcktik ad. 264
-synthese sintesenn f. 265
-synthétique sinteteg ad. 265
-systématique sistematik(el) ad. 265
-systématisation sistematisadur m. 266
-systématiser sistematisan v. 266
-systeme sistem m. 266
-systeme de Cramer sistem Cranler 266
-systeme linéaire sistem linear 266
-systeme général sistem jeneral 266
-systeme homogene sistem homogeneg 266
-systeme solaire sistem-Heol 266
+symbolique simboleg ad. 262
+symÃ©diane simedianenn f. 262
+symÃ©trie simetriezh f. 263
+symÃ©trie axiale simetriezh-ahel f. 263 
+symÃ©trie centrale simetriezh-kreis f. 263
+symÃ©trique simetreg ad. 262
+symÃ©trisable simetrisadus ad. 263
+symÃ©trisabilitÃ© simetrisadustecl f. 263
+symÃ©trisation simetrisadur m. 263
+symÃ©trisÃ© simetrised m. 263
+symÃ©triser simetrisaÃ± v. 263
+symplectique simplektik ad. 264
+synthÃ¨se sintesenn f. 265
+synthÃ©tique sinteteg ad. 265
+systÃ©matique sistematik(el) ad. 265
+systÃ©matisation sistematisadur m. 266
+systÃ©matiser sistematisaÃ± v. 266
+systÃ¨me sistem m. 266
+systÃ¨me de Cramer sistem Cramer 266
+systÃ¨me linÃ©aire sistem linear 266
+systÃ¨me gÃ©nÃ©ral sistem jeneral 266
+systÃ¨me homogÃ¨ne sistem homogeneg 266
+systÃ¨me solaire sistem-Heol 266
 syzygie sizijienn f. 266
+
 T
 table taol(enn) f. 276
-tableau taolcnn f. 276
+tableau taolenn f. 276
 taille ment f. 198
-tangence tanjans f. 44, 275
-tangent (a) tanjant (douzh) ad. 44, 275
-tangente (tan, tg) tanjant 275
-tangente hyperbolique tanjant hiperboleg
-tangente tanjantenu f. 44, 276
-tangentîel tanjansiel ad. 44, 275
-tau (T) to 280
+tangence taÃ±jaÃ±s f. 44, 275
+tangent (Ã ) taÃ±jant (douzh) ad. 44, 275
+tangente (tan, tg) taÃ±jant 275
+tangente hyperbolique taÃ±jant hiperboleg
+tangente taÃ±jantenn f. 44, 276
+tangentiel taÃ±jaÃ±siel ad. 44, 275
+tau (Ï„, Î¤) to 280
 tauto- toto- 281
 tautochrone totokron ad. 281
 tautologie totologiezh f. 22, 281
-taux fcur m. 115
+taux feur m. 115
 tel que a sort gant/a sort ged, a sort ma 65
-tendre (vers) tennan (war-du) v. 277
-tendre en valeur absolue (vers)
-tennan e. talvond absolut (war-du) 277
+tendre (vers) tennaÃ± (war-du) v. 277
+tendre en valeur absolue (vers) tennan e talvoud absolut (war-du) 277
 tenseur tensor m. 277
-tensoriel tonsorel ad. 277
-téra- (T) : x10" tera- 277
-téragone tcragon m. 277
+tensoriel tensorel ad. 277
+tÃ©ra- (T) : Ã—10^12 tera- 277
+tÃ©ragone teragon m. 277
 terme term m. 277
-ternaire tcrnar ad. 277
+ternaire ternar ad. 277
 Terre Douar 101
 test test m. 278
-tétrade tetracl m. 279
-tétraedre tetracdr m. 279
-tétraédrique tetraedreg ad. 279
-tétragonal tetragonal ad. 279
-tétragone tetragon m. 279
-theta (0) teta 279
-théoreme teorem m. 48, 277
-théorie teorienn f. 277
-théorique teorikel ml. 277
-théorisation teorisadur m.
-théoriser teorisan v.
-these tesenn f.
+tÃ©trade tetrad m. 279
+tÃ©traÃ¨dre tetraedr m. 279
+tÃ©traÃ©drique tetraedreg ad. 279
+tÃ©tragonal tetragonal ad. 279
+tÃ©tragone tetragon m. 279
+theta (Î¸, Î˜) teta 279
+thÃ©oreme teorem m. 48, 277
+thÃ©orie teorienn f. 277
+thÃ©orique teorikel ml. 277
+thÃ©orisation teorisadur m.
+thÃ©oriser teorisaÃ± v.
+thÃ¨se tesenn f.
 tiers exclu trede eskloset 110
-tolérance tolerans f.
-tolérer tolerin v.
+tolÃ©rance toleraÃ±s f.
+tolÃ©rer toleriÃ± v.
 topologie topologiezh f. 22, 280
 topologique topologikel ad. 22, 280
 topologiquement ent-topologikel adv. 280
 tore tor m. 279
 torique toreg ad. 280
-torseur gvreoux* m. 128
+torseur gweour m. 128
 torsion gweadur m. 128
 total ollel ad. 34, 216
-tOtal Ollad m. 279
+total ollad m. 279
 totalement end-ollel adv. 216
-totalité ollelded f.
+totalitÃ© ollelded f.
 tout oll m. 216
 trace tress m. 283
-tracé tressadenn f.
-tracer tressan v. 26, 284
+tracÃ© tressadenn f.
+tracer tressaÃ± v. 26, 284
 tractrice trakteres f. 281
 trajectoire treugenn f. 284
 trajet treug m.
-trans- trans- 281
-transcendance transandans f. 46, 281
-transcendant transandant ad. 46, 281
-transférer transfcrin v. 281
-transfert transfer' m. 282
-trans?ni trans?nit ad. 36, 282
-transformation transforinadcnn f. 282
-transformé transformed m. 282
-transformée transformenn f. 282
-transformer transformin v. 282
-transitif transitivel ad. 282
-transitivement ent-transitivel udv. 282
-transîtivité transitivelezll f. 282
-translation translatadenn f. 26, 282
-transposé transposed m. 283
-transposée transposenii f. 283
-transposer transposifl v. 283
-transposition transposadenn f. 283
-transvection transveksioxl f. 283
-transverse transvers ad. 46, 283 -
-350
- 
-transversal tranversal ad. 46, 283
-transversale trannsversalenn f. 46, 283
-transversalité transversalded f. 46, 283
-trapeze trapes m. 283
-trapézoidal trapesoidel ad.
+trans- traÃ±s- 281
+transcendance traÃ±sandaÃ±s f. 46, 281
+transcendant traÃ±sandant ad. 46, 281
+transfÃ©rer traÃ±sferiÃ± v. 281
+transfert traÃ±sfert m. 282
+transfini traÃ±sfinit ad. 36, 282
+transformation traÃ±sformadenn f. 282
+transformÃ© traÃ±sformed m. 282
+transformÃ©e traÃ±sformenn f. 282
+transformer traÃ±sformiÃ± v. 282
+transitif traÃ±sitivel ad. 282
+transitivement ent-traÃ±sitivel adv. 282
+transÃ©tivitÃ© traÃ±sitivelezh f. 282
+translation traÃ±slatadenn f. 26, 282
+transposÃ© traÃ±sposed m. 283
+transposÃ©e traÃ±sposenn f. 283
+transposer traÃ±sposiÃ± v. 283
+transposition traÃ±sposadenn f. 283
+transvection traÃ±sveksion f. 283
+transverse traÃ±svers ad. 46, 283 
+transversal traÃ±versal ad. 46, 283
+transversale traÃ±sversalenn f. 46, 283
+transversalitÃ© traÃ±sversalded f. 46, 283
+trapÃ¨ze trapes m. 283
+trapÃ©zoÃ¯dal trapesoÃ¯del ad.
 treillis treilhis m. 283
-triade triacl m. 284
-triadique triaclik ad. 284
-triangle triöhogn, tric'l1orn m. 284
-triangulable triangulaclus ad. 284
+triade triad m. 284
+triadique triadik ad. 284
+triangle tricâ€™hhogn, tricâ€™horn m. 284
+triangulable trianguladus ad. 284
 triangulaire tricfhorneg ad. 285
-triangulation tlrianguladiu' m. 284
-trianguler triangulin v. 284
-triangularisable tric'hornckadus ad. 285
-triangularisation tric'horiiekadur m. 285
-triangulariser triclhornekaad v. 285
+triangulation trianguladur m. 284
+trianguler trianguliÃ± v. 284
+triangularisable tricâ€™hornekadus ad. 285
+triangularisation tricâ€™hornekadur m. 285
+triangulariser tricâ€™hornekaad v. 285
 tridiagonal tridiagonal ad. 28, 285
-triedre triedr m. 285
-trifolium trifoliuin m. 285
-trigonométrie trigonoinetriezli f. 285
-trigoxlométrique trigononietreg ad, 285
-trigonométrique (cercle) kelclh
-trigouonietreg 285
-trilinéaire trilincar ad. 38, 286
-trillion (1018) trilion m.. 286
-trinôme trinom m. 286
+triÃ¨dre triedr m. 285
+trifolium trifolium m. 285
+trigonomÃ©trie trigonometriezh f. 285
+trigonomÃ©trique trigonometreg ad, 285
+trigonomÃ©trique (cercle) kelcâ€™h trigonometreg 285
+trilinÃ©aire trilinear ad. 38, 286
+trillion (10^18) trilion m. 286
+trinÃ´me trinom m. 286
 triple tripl ad. 286
 triplet triplet m. 286
 trirectangle trireizhkorn ad. 286
-trirégulier trireolieg ad. 286
-trisécant trisekant ad. 24, 286
-trisécante trisekanteml f. 286
+trirÃ©gulier trireolieg ad. 286
+trisÃ©cant trisekant ad. 24, 286
+trisÃ©cante trisekantenn f. 286
 trisectable trisektadus ad. 24, 286
 trisection triseksion m. 24, 286
 trisectrice trisekteres f. 24, 286
-tritangent tritanjant ad. 287
+tritangent tritaÃ±jant ad. 287
 trivalent trivalant ad. 32, 287
 trivial trivial ad. 287
 trivial (noeud) skoulm trivial 287
-trivialisation trivialisaclur m. 287
-trivialiser trivialisan v. 287
-trochoide trokoidenn ad. 288
+trivialisation trivialisadur m. 287
+trivialiser trivialisaÃ± v. 287
+trochoÃ¯de trokoÃ¯denn ad. 288
 trois tri/teir 284
 tronc (de) kef- m. 46, 157
-tronc de cône kef-kon m. 46, 157
-tronc de prisme kef-prisin m. 46, 157
-tronc de pyramide kef-piraniidenn m. 157
+tronc de cÃ´ne kef-kon m. 46, 157
+tronc de prisme kef-prismm m. 46, 157
+tronc de pyramide kef-piramidenn m. 157
 troncature beskadur m. 46, 69
-tronqué besk(et) ad. 46, 69
-tronquer beskan v. 46, 69
+tronquÃ© besk(et) ad. 46, 69
+tronquer beskaÃ± v. 46, 69
 type tip m. 280
+
 U
 ultra- ultra- 289
-ultra?ltre ultra?ltr m. 32, 289
-ultramétrique ultrametreg ad. 289
+ultrafiltre ultrafiltr m. 32, 289
+ultramÃ©trique ultrametreg ad. 289
 ultraproduit ultraprodu m. 289
 uni- uni- 289
-unicité \lnikted f. 32, 290
+unicitÃ© unikted f. 32, 290
 unicursale unikursal ad. 290
-unifere imitar ad. 32, 290
+unifÃ¨re unitar ad. 32, 290
 uniforme unvan ad. 291
-uniformément end-unvan adv. 291
+uniformÃ©ment end-unvan adv. 291
 unimodal unimodal ad. 290
 unimodulaire unimodular ad. 290
 union uniadur m. 44, 290
 unipotent unipotant ad. 31, 290
 unique unik ad. 32, 290
 unitaire unitar ad. 32, 290
-unité unanenn f. 32, 289
-unité de mesure unanexm-vilsul f. 32, 289
+unitÃ© unanenn f. 32, 289
+unitÃ© de mesure unanenn-vusul f. 32, 289
 univalent univalant ad. 32, 290
 univers univers m. 46, 290
-universalité universelded f. 46, 291
+universalitÃ© universelded f. 46, 291
 universel universel ad. 46, 291
 univoque univokel ad.29l
-upsilon (v, T) upsilon 291
+upsilon (Ï…, Î¥) upsilon 291
 Uranus 291
+
 V, W,Z
 valeur talvoud m. 275
-valeur absolue talvoucl absolud m. 51
+valeur absolue talvoud absolud m. 51
 valeur propre talvoud prop m. 275
 valide valid ad.
-valider validan v.
-valuation valuaclur f. 293
-valué valuet ad. 293
+valider validaÃ± v.
+valuation valuadur f. 293
+valuÃ© valuet ad. 293
 variable variant ad. 47, 293
 variable variantenn f. 47, 2-93
-variable aléatoire variantemi dargouezheg 85
-variance varians f. 47, 293
+variable alÃ©atoire variantenn dargouezheg 85
+variance variaÃ±s f. 47, 293
 variation variadur m. 47, 293
-variation des constantes variaclur ar ,
-c'honstantennou m. 47, 293 l
-varié variet ad. 47, 293
-varier varian v. 47, 293
-variété variete f. 47, 293
+variation des constantes variadur ar c'honstantennoÃ¹ m. 47, 293
+variÃ© variet ad. 47, 293
+varier variaÃ± v. 47, 293
+variÃ©tÃ© variete f. 47, 293
 vecteur vektor m. 294
 vecteur propre vektor prop m. 294
-vectoriel vektorcl ad. 294
-vectoriel (espace) spass vektorel 294
-351
- 
-vérification gwiriarlur m.
-vérifier gwirian v.
-véritable gwirion ad. 129
-vérité gwirded f. 128
-vérité (valeur de) talvoud-gwirded 128
+vectoriel vektorel ad. 294
+vectoriel (espace) spass vektorel 294 
+vÃ©rification gwiriadur m.
+vÃ©rifier gwiriaÃ± v.
+vÃ©ritable gwirion ad. 129
+vÃ©ritÃ© gwirded f. 128
+vÃ©ritÃ© (valeur de) talvoud-gwirded 128
 vertical vertikal ad. 35, 294
 verticale vertikalenn f. 35, 294
-verticalité vertikalded f. 35, 294
-vicésimal ugentel ad. 289
+verticalitÃ© vertikalded f. 35, 294
+vicÃ©simal ugentel ad. 289
 vide goullo ad. 126
-virgule virgulemi f. 294
+virgule virgulenn f. 294
 virtuel virtual ad.
-vissage binsadenn f. 72
+vissage biÃ±sadenn f. 72
 vitesse tizh m. 280
-voisinage nessandei' m. 23, 209
+voisinage nessaÃ±der m. 23, 209
 volume volum m. 294
 vrai gwir ad. 128
-vraisemblable gwirhenvel ad.
-vraisemblance gwirhenvelidigezh f.
+vraisemblable gwirheÃ±vel ad.
+vraisemblance gwirheÃ±velidigezh f.
 wronskien wronskian ad. 298
-zénith zenit m. 299
-zéro zero m. 46, 299
-zône zonenn f. 47, 299
-zône sphérique zonenn sfereg f. 299
+zÃ©nith zenit m. 299
+zÃ©ro zero m. 46, 299
+zÃ´ne zonenn f. 47, 299
+zÃ´ne sphÃ©rique zonenn sfereg f. 299
  
 BIBLIOGRAFIEZH/BIBLIOGRAPHIE
-1. Encyclopédies, dictionnaires et lenques.
-l] Dictionnaire des Mathématiques : algebre, analyse, géométrie, Albin Michel, Paris, 1997.
-[ ] Dictionnaire des Mathématiques : fondements, probabilités, applications, Albin Michel, Paris, 1998.
+1. EncyclopÃ©dies, dictionnaires et lexiques.
+[ ] Dictionnaire des MathÃ©matiques : algÃ¨bre, analyse, gÃ©omÃ©trie, Albin Michel, Paris, 1997.
+[ ] Dictionnaire des MathÃ©matiques : fondements, probabilitÃ©s, applications, Albin Michel, Paris, 1998.
 [ ] Encyclopaedia of mathematics (traduit de Soviet math. encyclopaedia), 6 vol., Kluwer, London, 1987.
-l ] Encyclopaedia universalis, Albin Michel, Paris, 1995.
+[ ] Encyclopaedia universalis, Albin Michel, Paris, 1995.
 [ ] Mathematics subject classification 1995, American Mathematical Society, Providence, USA.
-[ l Petite encyclopédie des Mathématiques, Didier, Paris, 1980.
-[ l Baruk S., Dictionnaire de Mathématiques élémentaires, Editions du Seuil, Paris, 1995.
-[ ] Bouvier A., George lvl., Le Lionnais F., Dictionnaire des Mathématiques, PUF, Paris, 1996, 2000.
-[ ] Chambadal L., Dictionnaire des Mathématiques modernes, Larousse, Paris, 1972.
-[ ] Cotardiere (de la) P., Dictionnaire de Vflstronomie, Larousse, Paris, 1996.
+[ ] Petite encyclopÃ©die des MathÃ©matiques, Didier, Paris, 1980.
+[ ] Baruk S., Dictionnaire de MathÃ©matiques Ã©lÃ©mentaires, Editions du Seuil, Paris, 1995.
+[ ] Bouvier A., George lvl., Le Lionnais F., Dictionnaire des MathÃ©matiques, PUF, Paris, 1996, 2000.
+[ ] Chambadal L., Dictionnaire des MathÃ©matiques modernes, Larousse, Paris, 1972.
+[ ] Cotardiere (de la) P., Dictionnaire de l'Astronomie, Larousse, Paris, 1996.
 [ ] Enquist B., Schmid YV., Mathematics Unlimited - 2001 and Beyond, Springer-Verlag, Berlin, 2000.
-[ ] Hauchecorne B., Shaw A., Lenque bilingue du vocabulaire mathématique : anglais-français, fmnçais-
-anglais, Ellipses, Paris, 2001.
-[ ] Jozwiak Z., Kondrak L., Wrobel D., Zielinska A., Slovnik polsko-angliesko-francusko-rosyjski podsta-
-wowych terminow matematycznych, Wydawnictwo Uniwersytetu Lodzkiego, Lodz, 1999.
+[ ] Hauchecorne B., Shaw A., Lexique bilingue du vocabulaire mathÃ©matique : anglais-franÃ§ais, franÃ§ais-anglais, Ellipses, Paris, 2001.
+[ ] Jozwiak Z., Kondrak L., Wrobel D., Zielinska A., Slovnik polsko-angliesko-francusko-rosyjski podsta-wowych terminow matematycznych, Wydawnictwo Uniwersytetu Lodzkiego, Lodz, 1999.
 [ ] Macintyre S., Witte E., German-english mathematical vocabulary, Olivier and Boyd, Edinburgh, 1956.
-[ ] Malgorn G., Dictionnaire technique français-anglais, Gauthier-Villars, Paris, 1975.
-[ ] Markov A.S. et al., Dictionnaire multilingue scienti?que et technique, Dunod, Paris, 1984.
-[ l lvIilne-Thomson L.M., Russian-english mathematical Dictionary, The University of Wisconsin Press,
-Madison, Wisconsin, 1962.
-[ l Reinhart F., Soeder H., Atlas des Mathématiques, Livre de Poche, Paris, 1997.
-[ ] Vodnev V., Naoumovitch A., Naoumovitch N., Dictionnaire des mathématiques (traduit du russe),
-Editions Mir, Moscou, 1993.
+[ ] Malgorn G., Dictionnaire technique franÃ§ais-anglais, Gauthier-Villars, Paris, 1975.
+[ ] Markov A.S. et al., Dictionnaire multilingue scientifique et technique, Dunod, Paris, 1984.
+[ ] Milne-Thomson L.M., Russian-english mathematical Dictionary, The University of Wisconsin Press, Madison, Wisconsin, 1962.
+[ ] Reinhart F., Soeder H., Atlas des MathÃ©matiques, Livre de Poche, Paris, 1997.
+[ ] Vodnev V., Naoumovitch A., Naoumovitch N., Dictionnaire des mathÃ©matiques (traduit du russe), Editions Mir, Moscou, 1993.
 [ ] Weisstein E.W., CRC Concise encyclopedia of Mathematics, Springer Verlag, New York, 1998.
 [ ] Mathematical Dictionary Russian-German-English, Verlag der Wissenschaftcn, Berlin, 1959.
 [ ] Site Internet, MacTutor History of Mathematics, http://www-groups.dcsst-andac.uk/
 [ ] Site Internet, Kangourou, Paris, http://www.mathkang.org/default.html
-[] Lagadeuc J., Le Catholicon, 1499.
-[ ] Grégoire de Rostrenen, Dictionnaire, 1732.
-[] Le Gonidec., Dictionnaire, 1847.
-[ ] Vallée F., Grand dictionnaire français-breton, 1931.
+[ ] Lagadeuc J., Le Catholicon, 1499.
+[ ] GrÃ©goire de Rostrenen, Dictionnaire, 1732.
+[ ] Le Gonidec., Dictionnaire, 1847.
+[ ] VallÃ©e F., Grand dictionnaire franÃ§ais-breton, 1931.
 [ ] Favereau F., Dictionnaire du breton contemporain, Skol Vreizh, Morlaix, 1992.
-2. Histoire des mathématiques.
-[] Audirac J.L., Vie et oeuvre des grands mathématiciens, Magnard, Paris, 1990. _
-[ ] Barthélémy G., 2500 ans de mathématiques : Vévolution des idées, Ellipses, Paris, 1999.
-[ ] Bourbaki N., Eléments d 'histoire des mathématiques, Hermann, Paris, 1960.
+2. Histoire des mathÃ©matiques.
+[ ] Audirac J.L., Vie et oeuvre des grands mathÃ©maticiens, Magnard, Paris, 1990. _
+[ ] BarthÃ©lÃ©my G., 2500 ans de mathÃ©matiques : RÃ©volution des idÃ©es, Ellipses, Paris, 1999.
+[ ] Bourbaki N., Ã‰lÃ©ments d 'histoire des mathÃ©matiques, Hermann, Paris, 1960.
 [ ] Boyer C.B., A history of mathematics, John Wiley and sons, New York, London, 1963.
-[ ] Collette J.P., Histoire des mathématiques, 2 tomes, Ed. du Renouveau pédagogique, Montréal, 1973.
-[ ] Dahan-Dalmedico A., Peiífer J., Une histoire des mathématiques, Editions du Seuil, Paris, 1986.
-[ ] Dédron P., Itard J., Mathématiques et mathématiciens, Maignard, Paris, 1959.
-[ ] Delahaye J.P., Le fascinant nombre n, Pour la Science, Belin, Paris, 1997.
-[ ] Descombes R., Les carrés magiques, Vuibert, Paris, 2000.
-[ ] Dieudonné J., Abrége' d 'histoire des mathématiques, Hermann, Paris, 1986.
-[ ] Dieudonné J., Panorama des math. pures : le choix bourbachique, Gauthier-Villars, Paris, 1977.
+[ ] Collette J.P., Histoire des mathÃ©matiques, 2 tomes, Ed. du Renouveau pÃ©dagogique, MontrÃ©al, 1973.
+[ ] Dahan-Dalmedico A., Peiffer J., Une histoire des mathÃ©matiques, Editions du Seuil, Paris, 1986.
+[ ] DÃ©dron P., Itard J., MathÃ©matiques et mathÃ©maticiens, Maignard, Paris, 1959.
+[ ] Delahaye J.P., Le fascinant nombre Ï€, Pour la Science, Belin, Paris, 1997.
+[ ] Descombes R., Les carrÃ©s magiques, Vuibert, Paris, 2000.
+[ ] DieudonnÃ© J., AbrÃ©gÃ© d'histoire des mathÃ©matiques, Hermann, Paris, 1986.
+[ ] DieudonnÃ© J., Panorama des math. pures : le choix bourbachique, Gauthier-Villars, Paris, 1977.
 [ ] Djebhar A., Histoire de la science arabe, Editions du Seuil, Paris, 2001.
-[ ] Duvillié B., Sur les traces de l'Homo mathematicus : les math. avant Euclide, Ellipses, Paris, 1999.
+[ ] DuvilliÃ© B., Sur les traces de l'Homo mathematicus : les math. avant Euclide, Ellipses, Paris, 1999.
 [ ] Heath TL., A manual of Greek Mathematics, New York, Dover, 1963.
 [ ] Ifrah G., Ilistoire universelle des chi?ies, 2 tomes, Bouquins, R. Laffont, Paris, 1994.
