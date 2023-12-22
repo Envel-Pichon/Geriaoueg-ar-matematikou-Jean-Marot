@@ -1,4 +1,4 @@
-# Geriaoueg ar Matematikoù gant Jean-Marot
+# Geriaoueg ar Matematikoù gant Jean Marot
 
 Lexique Français Breton de mathématiques tiré de ***Geriadur ar Matematikoù*** (Dictionnaire des Mathématiques) de Jean Marot.  
 
