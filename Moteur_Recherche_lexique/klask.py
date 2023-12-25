@@ -22,18 +22,18 @@ with open(path_CSV, mode="r", encoding="ANSI") as entrée:
     dico = {colonne[0]: colonne[1] for colonne in lecture}
 
 #Recherche dans le lexique
-print("Ne pas écrire de majuscules et respecter les accents, le ñ, lire les commentaires au début de ce script.")
+print("Respecter les accents, le ñ.\n\nLire le README.md pour plus d'informations sur le c’h.\n")
 
 continuer = "1"
 while (continuer == "1"):
     j = 0
     print("Entrez un terme à chercher : ") 
-    terme = input()
-    print(f"Voici la liste des entrées dans lesquelles ont été trouvé \"{terme}\" : ")
+    terme = input().lower()
+    print(f"\nVoici la liste des entrées dans lesquelles ont été trouvé \"{terme}\" : ")
     for i in dico :
         if (list(dico.keys())[j].__contains__(terme)):
-            print("· "+ i + " : " + dico[i])
+            print("    · "+ i + " : " + dico[i])
         elif (dico[i].__contains__(terme)) :
-            print("· "+ dico[i] + " : " + i)
+            print("    · "+ dico[i] + " : " + i)
         j = j+1
-    continuer = input("Voulez-vous faire une nouvelle recherche ? 0 : Non ; 1 : Oui ")
+    continuer = input("\nVoulez-vous faire une nouvelle recherche ? 0 : Non ; 1 : Oui\n")
