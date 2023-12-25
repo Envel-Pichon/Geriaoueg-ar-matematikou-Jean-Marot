@@ -17,7 +17,7 @@ Il permet de trouver toutes les occurences d'un terme en Breton ou Français.
 	- Ex : trian au lieu de triangle (mais renvoit toutes les entrées contenant trian).
 - il est possible de créer un raccourci que l'on pourra épingler à la barre des tâches dans Windows 10 :
 	- en créant d'abord un raccourci de l'invite de commandes Windows cmd.exe ;
-	- puis en ajoutant dans cible,à la suite de %windir%\system32\cmd.exe :
-	 /k "chemin du répertoire où se trouve le script\Geriaoueg_ar_matematikou_Jean-Marot\Moteur_Recherche_lexique\klask.py"
+	- puis en ajoutant dans cible, à la suite de %windir%\system32\cmd.exe :
+		- /k "chemin du répertoire où se trouve le script\Geriaoueg_ar_matematikou_Jean-Marot\Moteur_Recherche_lexique\klask.py"
 		- attention, \k doit être précédé d'un espace
 	- il est possible enfin de changer l'icône en utilisant celle fourni dans le dossier du script.
