@@ -20,4 +20,4 @@ Il permet de trouver toutes les occurences d'un terme en Breton ou Français.
 	- puis en ajoutant dans cible, à la suite de %windir%\system32\cmd.exe :
 		- /k "chemin du répertoire où se trouve le script\Geriaoueg_ar_matematikou_Jean-Marot\Moteur_Recherche_lexique\klask.py"
 		- attention, /k doit être précédé d'un espace
-	- il est possible enfin de changer l'icône en utilisant celle fourni dans le dossier du script.
+	- il est possible enfin de changer l'icône en utilisant celle fournie dans le dossier du script.
