@@ -12,8 +12,6 @@ Il permet de trouver toutes les occurences d'un terme en Breton ou Français.
 - attention, la lettre c’h ne doit pas s'écrire avec l'apostrophe (touche 4 de la ligne alphanumérique) mais avec une cote droite inclinée à gauche  ʼ ;
 	- c’h est ainsi reconnu mais pas c'h
 - l'utilisation de la disposition de clavier C’hwerty est donc très fortement recommandée :
-	-elle est disponible sur le site d'[An Drouizig](https://drouizig.org/outils-et-ressources/clavier-chwerty/).
+	- elle est disponible sur le site d'[An Drouizig](https://drouizig.org/outils-et-ressources/clavier-chwerty/).
 - il est possible d'effectuer une recherche seulement sur une partie du terme voulu :
-	- Ex : trian au lieu de triangle.
-
-Fin de la description et des commentaires.
+	- Ex : trian au lieu de triangle (mais renvoit toutes les entrées contenant trian).
