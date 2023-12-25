@@ -7,7 +7,7 @@ Ce script a pour but de faire des recherches de termes dans le lexique des terme
 Il permet de trouver toutes les occurences d'un terme en Breton ou Français.
 
 ## Commentaires
-- il est sensible à la case (n'utilisez pas de majsucules) et les accents sont pris en compte ;
+- les accents sont pris en compte ;
 - la lettre ñ doit être écrite, elle ne peut pas être remplacée par n ;
 - attention, la lettre c’h ne doit pas s'écrire avec l'apostrophe (touche 4 de la ligne alphanumérique) mais avec une cote droite inclinée à gauche  ʼ ;
 	- c’h est ainsi reconnu mais pas c'h
