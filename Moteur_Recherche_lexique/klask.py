@@ -15,9 +15,9 @@ def to_raw(string):
 #initialisation du dictionnaire et création à partir du fichier CSV
 dico = {}
 
-path_CSV = to_raw(os.path.dirname(getsourcefile(lambda:0))+ r"\Geriaoueg_Jean_Marot_source.csv")
+path_CSV = to_raw(os.path.dirname(getsourcefile(lambda:0))+ r"\Geriaoueg_Jean_Marot.csv")
 
-with open(path_CSV, mode="r", encoding="ANSI") as entrée:
+with open(path_CSV, mode="r", encoding="UTF8") as entrée:
     lecture = csv.reader(entrée)
     dico = {colonne[0]: colonne[1] for colonne in lecture}
 
