@@ -1,9 +1,9 @@
 # Geriaoueg ar Matematikoù gant Jean Marot
 
-Lexique Français Breton de mathématiques tiré de ***Geriadur ar Matematikoù*** (Dictionnaire des Mathématiques) de Jean Marot.  
+Lexique Français Breton de mathématiques tiré de ***Geriadur ar Matematikoù*** (Dictionnaire des Mathématiques) de Jean Marot.
 
 ## Notes :
-- il est conseillé d'utiliser le fichier .ods pour faire les recherches, le fichier texte comporte des erreurs qui n'ont pas été corrigées ;
+- il est conseillé d'utiliser le fichier .csv dans le dossier Moteur de Recherche pour faire les recherches, les autres fichiers comportent des erreurs qui n'ont pas été corrigées ;
 - ce lexique utilise l'orthographe interdialectale, pas celle du peurunvan ([comparatif des orthographes du Breton](https://fr.wikipedia.org/wiki/Orthographe_du_breton#Comparaison_des_orthographes)) ;
 	- *ex* : krei**S**enn = krei**Z**enn ; adi**SS**ioniñ = adi**S**ioniñ ; bloa**w**ezh = bloa**v**ezh ; ...
 - j'ai pris la liberté de changer *maximum* proposé en Breton par *maksimum*, plus cohérent avec les autres orthographes (de même pour les autres **x** conservés en Breton) ;
