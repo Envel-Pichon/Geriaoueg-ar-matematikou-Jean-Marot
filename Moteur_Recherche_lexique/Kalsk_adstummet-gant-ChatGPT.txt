@@ -1,0 +1,24 @@
+# ...
+
+# Utilisation de os.path.join pour construire le chemin du fichier CSV
+path_CSV = os.path.join(os.path.dirname(getsourcefile(lambda:0)), "Geriaoueg_Jean_Marot.csv")
+
+# Utilisation de with open(...) as ... pour garantir la fermeture automatique du fichier
+with open(path_CSV, mode="r", encoding="UTF8") as entrée:
+    lecture = csv.reader(entrée)
+    dico = {colonne[0]: colonne[1] for colonne in lecture}
+
+# Optimisation de la recherche dans le dictionnaire
+print("Respecter les accents, le ñ.\n\nLire le README.md pour plus d'informations sur le c’h.\n")
+
+continuer = "1"
+while continuer == "1":
+    print(f"Entrez un terme à chercher : ")
+    terme = input().lower()
+    print(f"\nVoici la liste des entrées dans lesquelles ont été trouvé \"{terme}\" : ")
+    for cle, valeur in dico.items():
+        if terme in cle.lower():
+            print(f"    · {cle} : {valeur}")
+        elif terme in valeur.lower():
+            print(f"    · {valeur} : {cle}")
+    continuer = input("\nVoulez-vous faire une nouvelle recherche ? 0 : Non ; 1 : Oui\n")
